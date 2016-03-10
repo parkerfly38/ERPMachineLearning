@@ -1,0 +1,2000 @@
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "1" } }
+{ "id" : "1", "ITMREF" : "49825131", "DESC" : "Salicylic Acid", "PRICE" : "$823.71" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "2" } }
+{ "id" : "2", "ITMREF" : "66689032", "DESC" : "Morphine Sulfate", "PRICE" : "$845.69" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "3" } }
+{ "id" : "3", "ITMREF" : "551544727", "DESC" : "Furosemide", "PRICE" : "$825.45" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "4" } }
+{ "id" : "4", "ITMREF" : "24462200", "DESC" : "menthol, camphor", "PRICE" : "$222.47" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "5" } }
+{ "id" : "5", "ITMREF" : "63824163", "DESC" : "Dextromethorphan Hydrobromide and Menthol", "PRICE" : "$443.43" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "6" } }
+{ "id" : "6", "ITMREF" : "60760413", "DESC" : "Hydrochlorothiazide", "PRICE" : "$875.74" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "7" } }
+{ "id" : "7", "ITMREF" : "07813129", "DESC" : "Nafcillin Sodium", "PRICE" : "$581.59" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "8" } }
+{ "id" : "8", "ITMREF" : "605120018", "DESC" : "CYCLAMEN EUROPAEUM, ANTIMONIUM CRUDUM, ALUMINA, LYCOPODIUM CLAVATUM, ARGENTUM NITRICUM, DIGITALIS PURPUREA, MELILOTUS OFFICINALIS, GLONOINUM", "PRICE" : "$373.64" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "9" } }
+{ "id" : "9", "ITMREF" : "609050408", "DESC" : "TITANIUM DIOXIDE", "PRICE" : "$1012.83" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "10" } }
+{ "id" : "10", "ITMREF" : "76245217", "DESC" : "ZINC OXIDE", "PRICE" : "$397.07" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "11" } }
+{ "id" : "11", "ITMREF" : "551544031", "DESC" : "enoxaparin sodium", "PRICE" : "$929.35" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "12" } }
+{ "id" : "12", "ITMREF" : "52125101", "DESC" : "Levothyroxine Sodium", "PRICE" : "$192.63" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "13" } }
+{ "id" : "13", "ITMREF" : "04091560", "DESC" : "BUPIVACAINE HYDROCHLORIDE", "PRICE" : "$275.05" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "14" } }
+{ "id" : "14", "ITMREF" : "37808162", "DESC" : "Neomycin, Polymyxin B, Pramoxine Hcl", "PRICE" : "$243.70" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "15" } }
+{ "id" : "15", "ITMREF" : "208021500", "DESC" : "Benzalkonium Chloride", "PRICE" : "$1042.20" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "16" } }
+{ "id" : "16", "ITMREF" : "02680616", "DESC" : "DOG EPITHELIA", "PRICE" : "$664.20" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "17" } }
+{ "id" : "17", "ITMREF" : "05970148", "DESC" : "linagliptin", "PRICE" : "$674.83" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "18" } }
+{ "id" : "18", "ITMREF" : "654350151", "DESC" : "OCTINOXATE, OCTISALATE, ZINC OXIDE, TITANIUM DIOXIDE", "PRICE" : "$401.30" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "19" } }
+{ "id" : "19", "ITMREF" : "06412460", "DESC" : "Heparin Sodium", "PRICE" : "$251.32" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "20" } }
+{ "id" : "20", "ITMREF" : "688750102", "DESC" : "teduglutide", "PRICE" : "$416.20" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "21" } }
+{ "id" : "21", "ITMREF" : "00252732", "DESC" : "disopyramide phosphate", "PRICE" : "$828.64" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "22" } }
+{ "id" : "22", "ITMREF" : "61787188", "DESC" : "capsaicin", "PRICE" : "$235.86" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "23" } }
+{ "id" : "23", "ITMREF" : "16590925", "DESC" : "OXYCODONE AND ACETAMINOPHEN", "PRICE" : "$365.59" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "24" } }
+{ "id" : "24", "ITMREF" : "545698704", "DESC" : "PREGABALIN", "PRICE" : "$688.88" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "25" } }
+{ "id" : "25", "ITMREF" : "55390162", "DESC" : "Octreotide Acetate", "PRICE" : "$58.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "26" } }
+{ "id" : "26", "ITMREF" : "76261127", "DESC" : "Avobenzone, Homosalate, Octocrylene, Octisalate", "PRICE" : "$946.22" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "27" } }
+{ "id" : "27", "ITMREF" : "02680896", "DESC" : "FUSARIUM VASINFECTUM", "PRICE" : "$753.50" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "28" } }
+{ "id" : "28", "ITMREF" : "05627805", "DESC" : "HUMAN RHO(D) IMMUNE GLOBULIN", "PRICE" : "$996.31" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "29" } }
+{ "id" : "29", "ITMREF" : "17452430", "DESC" : "CAMPHOR, CAPSAICIN and MENTHOL", "PRICE" : "$40.11" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "30" } }
+{ "id" : "30", "ITMREF" : "00694170", "DESC" : "azithromycin dihydrate", "PRICE" : "$990.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "31" } }
+{ "id" : "31", "ITMREF" : "66007145", "DESC" : "Acetaminophen", "PRICE" : "$965.97" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "32" } }
+{ "id" : "32", "ITMREF" : "43498101", "DESC" : "Sodium Fluoride", "PRICE" : "$538.86" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "33" } }
+{ "id" : "33", "ITMREF" : "43419357", "DESC" : "Octinoxate, TITANIUM DIOXIDE, and ZINC OXIDE", "PRICE" : "$174.67" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "34" } }
+{ "id" : "34", "ITMREF" : "51808101", "DESC" : "Sodium Chromate 51", "PRICE" : "$640.42" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "35" } }
+{ "id" : "35", "ITMREF" : "62856125", "DESC" : "dalteparin sodium", "PRICE" : "$16.72" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "36" } }
+{ "id" : "36", "ITMREF" : "42549621", "DESC" : "TOPIRAMATE", "PRICE" : "$884.56" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "37" } }
+{ "id" : "37", "ITMREF" : "11084703", "DESC" : "Ethyl Alcohol", "PRICE" : "$282.40" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "38" } }
+{ "id" : "38", "ITMREF" : "13537426", "DESC" : "Pyrithione Zinc", "PRICE" : "$959.51" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "39" } }
+{ "id" : "39", "ITMREF" : "545691873", "DESC" : "betamethasone valerate", "PRICE" : "$532.49" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "40" } }
+{ "id" : "40", "ITMREF" : "64117991", "DESC" : "SULFUR", "PRICE" : "$7.45" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "41" } }
+{ "id" : "41", "ITMREF" : "101579713", "DESC" : "Dimethicone, Padimate O, and Oxybenzone", "PRICE" : "$80.94" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "42" } }
+{ "id" : "42", "ITMREF" : "51619300", "DESC" : "magnesium sulfate", "PRICE" : "$226.83" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "43" } }
+{ "id" : "43", "ITMREF" : "10544617", "DESC" : "Cephalexin", "PRICE" : "$25.77" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "44" } }
+{ "id" : "44", "ITMREF" : "00073372", "DESC" : "carvedilol phosphate", "PRICE" : "$570.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "45" } }
+{ "id" : "45", "ITMREF" : "616011127", "DESC" : "Titanium Dioxide and Octinoxate", "PRICE" : "$808.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "46" } }
+{ "id" : "46", "ITMREF" : "575200640", "DESC" : "Melatonin, Nadidum, Niacin, Pyridoxinum hydrochloricum, Zincum sulphuricum, Hypothalamus, Lithium carbonicum, Magnesia carbonica, Pineal, Pituitary,", "PRICE" : "$829.20" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "47" } }
+{ "id" : "47", "ITMREF" : "55312196", "DESC" : "Acetaminophen, Dextromethorphan HBr", "PRICE" : "$461.52" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "48" } }
+{ "id" : "48", "ITMREF" : "63187021", "DESC" : "Fluticasone Propionate", "PRICE" : "$172.60" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "49" } }
+{ "id" : "49", "ITMREF" : "11559969", "DESC" : "TITANIUM DIOXIDE", "PRICE" : "$1017.65" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "50" } }
+{ "id" : "50", "ITMREF" : "55312035", "DESC" : "Mineral Oil", "PRICE" : "$956.71" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "51" } }
+{ "id" : "51", "ITMREF" : "65954162", "DESC" : "SODIUM FLUORIDE", "PRICE" : "$719.96" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "52" } }
+{ "id" : "52", "ITMREF" : "595284456", "DESC" : "mineral/vitamin supplement", "PRICE" : "$166.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "53" } }
+{ "id" : "53", "ITMREF" : "29336302", "DESC" : "nitroglycerin", "PRICE" : "$489.57" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "54" } }
+{ "id" : "54", "ITMREF" : "636293197", "DESC" : "Buspirone hydrochloride", "PRICE" : "$465.09" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "55" } }
+{ "id" : "55", "ITMREF" : "649421249", "DESC" : "Pyrithione Zinc", "PRICE" : "$1004.00" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "56" } }
+{ "id" : "56", "ITMREF" : "04090182", "DESC" : "GEMCITABINE HYDROCHLORIDE", "PRICE" : "$249.30" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "57" } }
+{ "id" : "57", "ITMREF" : "49738013", "DESC" : "Loratadine, Pseudoephedrine", "PRICE" : "$322.94" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "58" } }
+{ "id" : "58", "ITMREF" : "52686226", "DESC" : "Ensulizole, Octinoxate, and Zinc Oxide", "PRICE" : "$867.70" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "59" } }
+{ "id" : "59", "ITMREF" : "55289257", "DESC" : "PREGABALIN", "PRICE" : "$361.10" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "60" } }
+{ "id" : "60", "ITMREF" : "63941440", "DESC" : "Aspirin", "PRICE" : "$570.64" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "61" } }
+{ "id" : "61", "ITMREF" : "65954534", "DESC" : "SODIUM FLUORIDE", "PRICE" : "$641.32" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "62" } }
+{ "id" : "62", "ITMREF" : "41163280", "DESC" : "Acetaminophen", "PRICE" : "$339.96" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "63" } }
+{ "id" : "63", "ITMREF" : "09551021", "DESC" : "Docetaxel", "PRICE" : "$2.07" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "64" } }
+{ "id" : "64", "ITMREF" : "57687240", "DESC" : "Helianthemum nummularium flower, Clematis vitalba flower, Impatiens glandulifera flower, Prunus cerasifera flower, Ornithogalum umbellatum, and Malus domestica flower", "PRICE" : "$303.89" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "65" } }
+{ "id" : "65", "ITMREF" : "52276312", "DESC" : "Carglumic Acid", "PRICE" : "$898.72" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "66" } }
+{ "id" : "66", "ITMREF" : "64679928", "DESC" : "Lisinopril", "PRICE" : "$940.68" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "67" } }
+{ "id" : "67", "ITMREF" : "50302300", "DESC" : "TRICLOSAN", "PRICE" : "$448.66" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "68" } }
+{ "id" : "68", "ITMREF" : "00132655", "DESC" : "somatropin", "PRICE" : "$760.26" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "69" } }
+{ "id" : "69", "ITMREF" : "581180010", "DESC" : "Metformin Hydrochloride", "PRICE" : "$94.38" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "70" } }
+{ "id" : "70", "ITMREF" : "05910749", "DESC" : "Oxycodone hydrochloride and Acetaminophen", "PRICE" : "$895.68" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "71" } }
+{ "id" : "71", "ITMREF" : "575200037", "DESC" : "Echinacea Angustifolia, Hydrastis canadensis, Lomatium Myrrha, Nasturtium aquaticum, Propolis,", "PRICE" : "$678.47" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "72" } }
+{ "id" : "72", "ITMREF" : "16590689", "DESC" : "METHADONE HYDROCHLORIDE", "PRICE" : "$602.71" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "73" } }
+{ "id" : "73", "ITMREF" : "46672138", "DESC" : "phendimetrazine tartrate", "PRICE" : "$306.14" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "74" } }
+{ "id" : "74", "ITMREF" : "05271383", "DESC" : "Clindamycin Hydrochloride", "PRICE" : "$656.74" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "75" } }
+{ "id" : "75", "ITMREF" : "37808170", "DESC" : "Nicotine Polacrilex", "PRICE" : "$951.59" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "76" } }
+{ "id" : "76", "ITMREF" : "11559035", "DESC" : "AVOBENZONE, OCTINOXATE, and OCTISALATE", "PRICE" : "$837.13" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "77" } }
+{ "id" : "77", "ITMREF" : "68016081", "DESC" : "Magnesium Hydroxide", "PRICE" : "$974.85" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "78" } }
+{ "id" : "78", "ITMREF" : "41616637", "DESC" : "Alendronate Sodium", "PRICE" : "$891.31" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "79" } }
+{ "id" : "79", "ITMREF" : "51660127", "DESC" : "norethindrone", "PRICE" : "$826.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "80" } }
+{ "id" : "80", "ITMREF" : "22700154", "DESC" : "Ensulizole", "PRICE" : "$687.35" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "81" } }
+{ "id" : "81", "ITMREF" : "03631600", "DESC" : "docusate sodium and sennosides", "PRICE" : "$997.30" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "82" } }
+{ "id" : "82", "ITMREF" : "118223410", "DESC" : "ENSULIZOLE", "PRICE" : "$44.14" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "83" } }
+{ "id" : "83", "ITMREF" : "55758007", "DESC" : "DEXTROMETHORPHAN HYDROBROMIDE and GUAIFENESIN", "PRICE" : "$1028.91" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "84" } }
+{ "id" : "84", "ITMREF" : "21695521", "DESC" : "Betamethasone Dipropionate", "PRICE" : "$1010.48" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "85" } }
+{ "id" : "85", "ITMREF" : "49852015", "DESC" : "Ethyl Alcohol", "PRICE" : "$403.67" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "86" } }
+{ "id" : "86", "ITMREF" : "07039040", "DESC" : "Amikacin Sulfate", "PRICE" : "$828.59" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "87" } }
+{ "id" : "87", "ITMREF" : "619570907", "DESC" : "OCTINOXATE, TITANIUM DIOXIDE", "PRICE" : "$586.13" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "88" } }
+{ "id" : "88", "ITMREF" : "17271505", "DESC" : "chlorhexidine gluconate", "PRICE" : "$630.27" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "89" } }
+{ "id" : "89", "ITMREF" : "59262271", "DESC" : "Chamomilla and Mercurius Solubilis and Sulphur", "PRICE" : "$675.60" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "90" } }
+{ "id" : "90", "ITMREF" : "41163005", "DESC" : "sodium phosphate", "PRICE" : "$762.77" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "91" } }
+{ "id" : "91", "ITMREF" : "616011127", "DESC" : "Titanium Dioxide and Octinoxate", "PRICE" : "$174.87" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "92" } }
+{ "id" : "92", "ITMREF" : "24488005", "DESC" : "alcohol", "PRICE" : "$438.56" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "93" } }
+{ "id" : "93", "ITMREF" : "02680002", "DESC" : "House Dust", "PRICE" : "$192.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "94" } }
+{ "id" : "94", "ITMREF" : "67777407", "DESC" : "zinc oxide", "PRICE" : "$163.07" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "95" } }
+{ "id" : "95", "ITMREF" : "65628052", "DESC" : "Diphenhydramine Hydrochloride and Hydrocortisone and Nystatin", "PRICE" : "$916.48" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "96" } }
+{ "id" : "96", "ITMREF" : "548681259", "DESC" : "warfarin sodium", "PRICE" : "$784.25" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "97" } }
+{ "id" : "97", "ITMREF" : "43269832", "DESC" : "Triclosan", "PRICE" : "$946.04" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "98" } }
+{ "id" : "98", "ITMREF" : "49349869", "DESC" : "Carvedilol", "PRICE" : "$857.50" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "99" } }
+{ "id" : "99", "ITMREF" : "76271002", "DESC" : "PETROLATUM", "PRICE" : "$738.67" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "100" } }
+{ "id" : "100", "ITMREF" : "50438102", "DESC" : "Triclosan", "PRICE" : "$55.40" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "101" } }
+{ "id" : "101", "ITMREF" : "42361030", "DESC" : "Titanium Dioxide, Octinoxate", "PRICE" : "$351.87" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "102" } }
+{ "id" : "102", "ITMREF" : "52685400", "DESC" : "Octinoxate and Titanium dioxide", "PRICE" : "$676.52" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "103" } }
+{ "id" : "103", "ITMREF" : "68786220", "DESC" : "Bacitracin Zinc", "PRICE" : "$545.39" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "104" } }
+{ "id" : "104", "ITMREF" : "43269745", "DESC" : "ALCOHOL", "PRICE" : "$154.12" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "105" } }
+{ "id" : "105", "ITMREF" : "548680025", "DESC" : "Tetracycline Hydrochloride", "PRICE" : "$261.31" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "106" } }
+{ "id" : "106", "ITMREF" : "636295428", "DESC" : "HYDROCODONE BITARTRATE, ACETAMINOPHEN", "PRICE" : "$398.41" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "107" } }
+{ "id" : "107", "ITMREF" : "52125433", "DESC" : "doxycycline", "PRICE" : "$773.30" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "108" } }
+{ "id" : "108", "ITMREF" : "76237178", "DESC" : "HYDROCODONE BITARTRATE AND ACETAMINOPHEN", "PRICE" : "$264.14" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "109" } }
+{ "id" : "109", "ITMREF" : "52544156", "DESC" : "triptorelin pamoate", "PRICE" : "$337.33" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "110" } }
+{ "id" : "110", "ITMREF" : "02802500", "DESC" : "Aspirin", "PRICE" : "$609.98" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "111" } }
+{ "id" : "111", "ITMREF" : "50458552", "DESC" : "paliperidone", "PRICE" : "$536.93" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "112" } }
+{ "id" : "112", "ITMREF" : "63940343", "DESC" : "Lanolin, Petrolatum", "PRICE" : "$606.88" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "113" } }
+{ "id" : "113", "ITMREF" : "60429046", "DESC" : "Lisinopril and Hydrochlorothiazide", "PRICE" : "$30.79" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "114" } }
+{ "id" : "114", "ITMREF" : "52533024", "DESC" : "Fentanyl Citrate", "PRICE" : "$738.79" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "115" } }
+{ "id" : "115", "ITMREF" : "55289577", "DESC" : "sildenafil citrate", "PRICE" : "$993.98" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "116" } }
+{ "id" : "116", "ITMREF" : "61734085", "DESC" : "Ethyl Alcohol", "PRICE" : "$895.23" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "117" } }
+{ "id" : "117", "ITMREF" : "118220112", "DESC" : "Pseudoephedrine HCl", "PRICE" : "$187.73" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "118" } }
+{ "id" : "118", "ITMREF" : "40061990", "DESC" : "Avobenzone, Octinoxate, Octocrylene, Oxybenzone", "PRICE" : "$845.40" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "119" } }
+{ "id" : "119", "ITMREF" : "55289328", "DESC" : "Ketorolac Tromethamine", "PRICE" : "$265.64" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "120" } }
+{ "id" : "120", "ITMREF" : "65649102", "DESC" : "balsalazide disodium", "PRICE" : "$385.02" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "121" } }
+{ "id" : "121", "ITMREF" : "548684564", "DESC" : "metformin hydrochloride", "PRICE" : "$623.33" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "122" } }
+{ "id" : "122", "ITMREF" : "63187089", "DESC" : "fluoxetine", "PRICE" : "$31.05" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "123" } }
+{ "id" : "123", "ITMREF" : "369872153", "DESC" : "Corn Smut", "PRICE" : "$537.16" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "124" } }
+{ "id" : "124", "ITMREF" : "551542423", "DESC" : "quinapril hydrochloride", "PRICE" : "$689.81" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "125" } }
+{ "id" : "125", "ITMREF" : "13925122", "DESC" : "Beta Carotene, Ascorbic Acid, Cholecalciferol, .Alpha.Tocopherol Acetate, DL, Thiamine Mononitrate, Riboflavin, Niacinamide, Pyridoxine Hydrochloride, Folic Acid, Cyanocobalamin, Calcium Carbonate, Iron, Magnesium Oxide, Zinc Oxide, Cupric Oxide, Iodine, Omega3 Fatty Acids", "PRICE" : "$1028.08" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "126" } }
+{ "id" : "126", "ITMREF" : "369871630", "DESC" : "Cacao Bean", "PRICE" : "$605.53" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "127" } }
+{ "id" : "127", "ITMREF" : "25021661", "DESC" : "midazolam hydrochloride", "PRICE" : "$775.98" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "128" } }
+{ "id" : "128", "ITMREF" : "55111222", "DESC" : "Lamotrigine", "PRICE" : "$162.64" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "129" } }
+{ "id" : "129", "ITMREF" : "03780277", "DESC" : "chlordiazepoxide and amitriptyline hydrochloride", "PRICE" : "$744.53" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "130" } }
+{ "id" : "130", "ITMREF" : "63868189", "DESC" : "Nicotine Polacrilex", "PRICE" : "$814.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "131" } }
+{ "id" : "131", "ITMREF" : "03630375", "DESC" : "Loperamides", "PRICE" : "$59.80" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "132" } }
+{ "id" : "132", "ITMREF" : "63354020", "DESC" : "AVOBENZONE, OCTOCRYLENE, OXYBENZONE", "PRICE" : "$987.04" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "133" } }
+{ "id" : "133", "ITMREF" : "515312326", "DESC" : "octinoxate, octisalate, zinc oxide, oxybenzone,", "PRICE" : "$817.93" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "134" } }
+{ "id" : "134", "ITMREF" : "16590023", "DESC" : "ACETAMINOPHEN AND CODEINE PHOSPHATE", "PRICE" : "$29.57" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "135" } }
+{ "id" : "135", "ITMREF" : "02647614", "DESC" : "DEXTROSE and SODIUM CHLORIDE", "PRICE" : "$976.98" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "136" } }
+{ "id" : "136", "ITMREF" : "605052540", "DESC" : "Amoxicillin and Clavulanate Potassium", "PRICE" : "$256.33" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "137" } }
+{ "id" : "137", "ITMREF" : "05361019", "DESC" : "Simethicone", "PRICE" : "$810.07" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "138" } }
+{ "id" : "138", "ITMREF" : "16590257", "DESC" : "Atenolol", "PRICE" : "$876.82" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "139" } }
+{ "id" : "139", "ITMREF" : "07815527", "DESC" : "Naratriptan", "PRICE" : "$398.59" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "140" } }
+{ "id" : "140", "ITMREF" : "11673444", "DESC" : "Acetaminophen", "PRICE" : "$511.35" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "141" } }
+{ "id" : "141", "ITMREF" : "00933109", "DESC" : "Amoxicillin", "PRICE" : "$689.67" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "142" } }
+{ "id" : "142", "ITMREF" : "516724107", "DESC" : "Oxcarbazepine", "PRICE" : "$312.13" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "143" } }
+{ "id" : "143", "ITMREF" : "369872696", "DESC" : "Pinchot Juniper", "PRICE" : "$411.60" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "144" } }
+{ "id" : "144", "ITMREF" : "369871721", "DESC" : "Paprika", "PRICE" : "$459.22" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "145" } }
+{ "id" : "145", "ITMREF" : "58892911", "DESC" : "Titanium Dioxide, Zinc Oxide", "PRICE" : "$529.40" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "146" } }
+{ "id" : "146", "ITMREF" : "04069917", "DESC" : "temazepam", "PRICE" : "$926.04" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "147" } }
+{ "id" : "147", "ITMREF" : "76509180", "DESC" : "Drosera 30C, Spongia 30C, Kali Carbonicum 30C, Phospherous 30C, Ipeacacuhuana 30C, Pulsatilla 30C, Belladonna 30C", "PRICE" : "$87.63" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "148" } }
+{ "id" : "148", "ITMREF" : "51060020", "DESC" : "Titanium Dioxide and Zinc Oxide", "PRICE" : "$105.54" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "149" } }
+{ "id" : "149", "ITMREF" : "52125765", "DESC" : "Glipizide and Metformin Hydrochloride", "PRICE" : "$901.69" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "150" } }
+{ "id" : "150", "ITMREF" : "67046012", "DESC" : "Amitriptyline Hydrochloride", "PRICE" : "$726.31" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "151" } }
+{ "id" : "151", "ITMREF" : "597620045", "DESC" : "Montelukast Sodium", "PRICE" : "$34.32" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "152" } }
+{ "id" : "152", "ITMREF" : "63323387", "DESC" : "ampicillin sodium", "PRICE" : "$621.16" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "153" } }
+{ "id" : "153", "ITMREF" : "65628051", "DESC" : "Diphenhydramine, Lidocaine, Nystatin", "PRICE" : "$507.90" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "154" } }
+{ "id" : "154", "ITMREF" : "369872044", "DESC" : "Penicilium chrysogenum", "PRICE" : "$921.03" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "155" } }
+{ "id" : "155", "ITMREF" : "449110073", "DESC" : "Pancreas, Stomach, Arsenicum Album, Graphites, Lycopodium Clavatum, Nuv Vomica, Phosphorus, Syzygium Jambolanum", "PRICE" : "$109.43" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "156" } }
+{ "id" : "156", "ITMREF" : "650441217", "DESC" : "Boxelder/Maple Mix", "PRICE" : "$358.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "157" } }
+{ "id" : "157", "ITMREF" : "449110119", "DESC" : "Echinacea (Angustifolia), Tabebuia impetiginosa, Abies nigra, Lycopodium clavatum, Nux vomica, Phosphorus, Pulsatilla (Vulgaris), Sepia, Skatolum, Canadida albicans,", "PRICE" : "$917.34" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "158" } }
+{ "id" : "158", "ITMREF" : "551549443", "DESC" : "LACTULOSE", "PRICE" : "$862.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "159" } }
+{ "id" : "159", "ITMREF" : "55312615", "DESC" : "Ketotifen", "PRICE" : "$651.15" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "160" } }
+{ "id" : "160", "ITMREF" : "59726023", "DESC" : "Naproxen Sodium", "PRICE" : "$155.22" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "161" } }
+{ "id" : "161", "ITMREF" : "649421190", "DESC" : "OCTISALATE, AVOBENZONE, ENSULIZOLE", "PRICE" : "$750.07" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "162" } }
+{ "id" : "162", "ITMREF" : "118220408", "DESC" : "Dextromethorphan Hydrobromide, Guaifenesin", "PRICE" : "$37.60" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "163" } }
+{ "id" : "163", "ITMREF" : "605050171", "DESC" : "TRAMADOL HYDROCHLORIDE", "PRICE" : "$390.58" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "164" } }
+{ "id" : "164", "ITMREF" : "45264001", "DESC" : "Clotrimazole", "PRICE" : "$1020.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "165" } }
+{ "id" : "165", "ITMREF" : "30142145", "DESC" : "Acetaminophen, guaifenesin, phenylephrine HCl", "PRICE" : "$904.80" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "166" } }
+{ "id" : "166", "ITMREF" : "49781097", "DESC" : "Aspirin", "PRICE" : "$36.52" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "167" } }
+{ "id" : "167", "ITMREF" : "489512090", "DESC" : "Bryophyllum Avena", "PRICE" : "$1032.65" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "168" } }
+{ "id" : "168", "ITMREF" : "00675010", "DESC" : "NICOTINE", "PRICE" : "$243.69" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "169" } }
+{ "id" : "169", "ITMREF" : "68084412", "DESC" : "Lorazepam", "PRICE" : "$329.54" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "170" } }
+{ "id" : "170", "ITMREF" : "645366102", "DESC" : "Triclosan", "PRICE" : "$941.80" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "171" } }
+{ "id" : "171", "ITMREF" : "65862311", "DESC" : "Didanosine", "PRICE" : "$705.82" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "172" } }
+{ "id" : "172", "ITMREF" : "21695636", "DESC" : "Nitroglycerin Sustainedrelease capsules", "PRICE" : "$287.23" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "173" } }
+{ "id" : "173", "ITMREF" : "489513116", "DESC" : "Conchae 5 comp.", "PRICE" : "$936.18" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "174" } }
+{ "id" : "174", "ITMREF" : "758471707", "DESC" : "GLYCERIN", "PRICE" : "$612.43" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "175" } }
+{ "id" : "175", "ITMREF" : "52544291", "DESC" : "Levonogestrel and Ethinyl Estradiol", "PRICE" : "$925.27" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "176" } }
+{ "id" : "176", "ITMREF" : "16714351", "DESC" : "Fluoxetine", "PRICE" : "$21.22" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "177" } }
+{ "id" : "177", "ITMREF" : "650442360", "DESC" : "Russian Olive Elaeagnus angustifolia", "PRICE" : "$504.21" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "178" } }
+{ "id" : "178", "ITMREF" : "64406933", "DESC" : "Coagulation Factor IX (Recombinant), Fc Fusion Protein", "PRICE" : "$52.19" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "179" } }
+{ "id" : "179", "ITMREF" : "60429623", "DESC" : "Olanzapine", "PRICE" : "$1004.14" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "180" } }
+{ "id" : "180", "ITMREF" : "108195000", "DESC" : "Alcohol", "PRICE" : "$846.37" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "181" } }
+{ "id" : "181", "ITMREF" : "21695684", "DESC" : "Aspirin", "PRICE" : "$361.63" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "182" } }
+{ "id" : "182", "ITMREF" : "548683648", "DESC" : "Azithromycin", "PRICE" : "$39.66" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "183" } }
+{ "id" : "183", "ITMREF" : "76461004", "DESC" : "ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE, PHENYLEPHRINE HYDROCHLORIDE", "PRICE" : "$280.91" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "184" } }
+{ "id" : "184", "ITMREF" : "42291643", "DESC" : "LEVOTHYROXINE, LIOTHYRONINE", "PRICE" : "$724.59" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "185" } }
+{ "id" : "185", "ITMREF" : "650444855", "DESC" : "AP Horse Hair and Dander", "PRICE" : "$203.81" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "186" } }
+{ "id" : "186", "ITMREF" : "02451071", "DESC" : "Topiramate", "PRICE" : "$443.43" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "187" } }
+{ "id" : "187", "ITMREF" : "49349788", "DESC" : "Buspirone Hydrochloride", "PRICE" : "$876.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "188" } }
+{ "id" : "188", "ITMREF" : "52533147", "DESC" : "Phenylephrine HCl", "PRICE" : "$801.03" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "189" } }
+{ "id" : "189", "ITMREF" : "548684400", "DESC" : "Warfarin Sodium", "PRICE" : "$717.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "190" } }
+{ "id" : "190", "ITMREF" : "54575469", "DESC" : "turkey", "PRICE" : "$882.08" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "191" } }
+{ "id" : "191", "ITMREF" : "68180281", "DESC" : "Ethambutol Hydrochloride", "PRICE" : "$290.25" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "192" } }
+{ "id" : "192", "ITMREF" : "55264626", "DESC" : "BACITRACIN ZINC, NEOMYCIN SULFATE, POLYMYXIN B SULFATE, PRAMOXINE HYDROCHLORIDE", "PRICE" : "$959.98" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "193" } }
+{ "id" : "193", "ITMREF" : "10544025", "DESC" : "Cephalexin", "PRICE" : "$73.46" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "194" } }
+{ "id" : "194", "ITMREF" : "49349772", "DESC" : "Oxcarbazepine", "PRICE" : "$592.33" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "195" } }
+{ "id" : "195", "ITMREF" : "21130357", "DESC" : "Aluminum hydroxide, Magnesium hydroxide, Simethicone", "PRICE" : "$55.39" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "196" } }
+{ "id" : "196", "ITMREF" : "00540551", "DESC" : "Oxycodone and Acetaminophen", "PRICE" : "$300.94" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "197" } }
+{ "id" : "197", "ITMREF" : "55253277", "DESC" : "Cyclobenzaprine Hydrochloride", "PRICE" : "$161.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "198" } }
+{ "id" : "198", "ITMREF" : "687889927", "DESC" : "Fluconazole", "PRICE" : "$614.21" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "199" } }
+{ "id" : "199", "ITMREF" : "60429122", "DESC" : "venlafaxine hydrochloride", "PRICE" : "$548.98" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "200" } }
+{ "id" : "200", "ITMREF" : "664672130", "DESC" : "Sodium Fluoride", "PRICE" : "$66.09" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "201" } }
+{ "id" : "201", "ITMREF" : "51060064", "DESC" : "Titanium Dioxide and Zinc Oxide", "PRICE" : "$361.32" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "202" } }
+{ "id" : "202", "ITMREF" : "68387385", "DESC" : "Sulfamethoxazole and Trimethoprim", "PRICE" : "$269.35" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "203" } }
+{ "id" : "203", "ITMREF" : "08841706", "DESC" : "Aluminum Sulfate Tetradecahydrate, Calcium Acetate Monohydrate", "PRICE" : "$1049.26" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "204" } }
+{ "id" : "204", "ITMREF" : "10572101", "DESC" : "Polyethylene Glycol 3350, Sodium Sulfate Anhydrous, Sodium Bicarbonate, Sodium Chloride, Potassium Chloride", "PRICE" : "$297.07" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "205" } }
+{ "id" : "205", "ITMREF" : "581180344", "DESC" : "Hydralazine Hydrochloride", "PRICE" : "$269.82" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "206" } }
+{ "id" : "206", "ITMREF" : "548680816", "DESC" : "Carisoprodol", "PRICE" : "$678.23" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "207" } }
+{ "id" : "207", "ITMREF" : "55648186", "DESC" : "Zoledronic Acid", "PRICE" : "$502.82" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "208" } }
+{ "id" : "208", "ITMREF" : "62756797", "DESC" : "Divalproex Sodium", "PRICE" : "$761.26" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "209" } }
+{ "id" : "209", "ITMREF" : "72036227", "DESC" : "Alcohol", "PRICE" : "$583.66" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "210" } }
+{ "id" : "210", "ITMREF" : "53113263", "DESC" : "Tolnaftate", "PRICE" : "$852.32" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "211" } }
+{ "id" : "211", "ITMREF" : "01730754", "DESC" : "lamotrigine", "PRICE" : "$165.69" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "212" } }
+{ "id" : "212", "ITMREF" : "581180372", "DESC" : "Loxapine", "PRICE" : "$11.23" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "213" } }
+{ "id" : "213", "ITMREF" : "00199889", "DESC" : "Technetium Tc99m Generator", "PRICE" : "$673.17" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "214" } }
+{ "id" : "214", "ITMREF" : "42851152", "DESC" : "TITANIUM DIOXIDE AND ZINC OXIDE", "PRICE" : "$532.62" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "215" } }
+{ "id" : "215", "ITMREF" : "62646791", "DESC" : "Cord Blood Collection Unit", "PRICE" : "$312.81" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "216" } }
+{ "id" : "216", "ITMREF" : "10252002", "DESC" : "Nitrogen", "PRICE" : "$469.32" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "217" } }
+{ "id" : "217", "ITMREF" : "60429771", "DESC" : "topiramate", "PRICE" : "$398.82" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "218" } }
+{ "id" : "218", "ITMREF" : "538080540", "DESC" : "PREDNISONE", "PRICE" : "$899.68" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "219" } }
+{ "id" : "219", "ITMREF" : "01870003", "DESC" : "Acetaminophen and codeine phosphate", "PRICE" : "$686.47" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "220" } }
+{ "id" : "220", "ITMREF" : "68196690", "DESC" : "Diphenhydramine Hydrochloride", "PRICE" : "$188.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "221" } }
+{ "id" : "221", "ITMREF" : "575200023", "DESC" : "Androstenedione, Dehydroepiandrosterone, Pregenolone, Progesterone, Testosterone", "PRICE" : "$970.40" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "222" } }
+{ "id" : "222", "ITMREF" : "548685397", "DESC" : "methylphenidate hydrochloride", "PRICE" : "$354.75" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "223" } }
+{ "id" : "223", "ITMREF" : "24451133", "DESC" : "Guaifenesin and Dextromethorphan Hydrobromide", "PRICE" : "$1013.00" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "224" } }
+{ "id" : "224", "ITMREF" : "06410476", "DESC" : "Phenobarbital Sodium", "PRICE" : "$108.43" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "225" } }
+{ "id" : "225", "ITMREF" : "369871181", "DESC" : "Cows Milk", "PRICE" : "$651.55" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "226" } }
+{ "id" : "226", "ITMREF" : "515140327", "DESC" : "Salicylic Acid", "PRICE" : "$894.35" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "227" } }
+{ "id" : "227", "ITMREF" : "51060072", "DESC" : "Titanium Dioxide and Zinc Oxide", "PRICE" : "$574.01" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "228" } }
+{ "id" : "228", "ITMREF" : "51079984", "DESC" : "lisinopril", "PRICE" : "$183.09" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "229" } }
+{ "id" : "229", "ITMREF" : "76237276", "DESC" : "Fluoxetine", "PRICE" : "$735.57" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "230" } }
+{ "id" : "230", "ITMREF" : "35356342", "DESC" : "tizanidine hydrochloride", "PRICE" : "$224.34" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "231" } }
+{ "id" : "231", "ITMREF" : "07039514", "DESC" : "sulfamethoxazole and trimethoprim", "PRICE" : "$774.71" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "232" } }
+{ "id" : "232", "ITMREF" : "49349406", "DESC" : "Methotrexate Sodium", "PRICE" : "$709.64" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "233" } }
+{ "id" : "233", "ITMREF" : "00780508", "DESC" : "carbamazepine", "PRICE" : "$872.48" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "234" } }
+{ "id" : "234", "ITMREF" : "00650543", "DESC" : "triamcinolone acetonide", "PRICE" : "$215.04" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "235" } }
+{ "id" : "235", "ITMREF" : "369871461", "DESC" : "Iceberg Lettuce", "PRICE" : "$505.49" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "236" } }
+{ "id" : "236", "ITMREF" : "13537066", "DESC" : "Octinoxate and Oxybenzone", "PRICE" : "$74.48" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "237" } }
+{ "id" : "237", "ITMREF" : "68828067", "DESC" : "Octinoxate, Oxybenzone, Titanium Dioxide", "PRICE" : "$695.79" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "238" } }
+{ "id" : "238", "ITMREF" : "21220123", "DESC" : "Carbon Dioxide", "PRICE" : "$23.11" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "239" } }
+{ "id" : "239", "ITMREF" : "504364477", "DESC" : "spironolactone", "PRICE" : "$13.46" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "240" } }
+{ "id" : "240", "ITMREF" : "76026304", "DESC" : "octisalate, zinc oxide", "PRICE" : "$87.93" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "241" } }
+{ "id" : "241", "ITMREF" : "50458254", "DESC" : "Haloperidol Decanoate", "PRICE" : "$900.65" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "242" } }
+{ "id" : "242", "ITMREF" : "01690084", "DESC" : "repaglinide", "PRICE" : "$655.50" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "243" } }
+{ "id" : "243", "ITMREF" : "41520647", "DESC" : "Ibuprofen", "PRICE" : "$320.60" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "244" } }
+{ "id" : "244", "ITMREF" : "52471101", "DESC" : "Petrolatum", "PRICE" : "$312.60" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "245" } }
+{ "id" : "245", "ITMREF" : "01730817", "DESC" : "lamotrigine", "PRICE" : "$639.65" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "246" } }
+{ "id" : "246", "ITMREF" : "548685844", "DESC" : "Budesonide", "PRICE" : "$385.44" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "247" } }
+{ "id" : "247", "ITMREF" : "43269692", "DESC" : "ALCOHOL", "PRICE" : "$393.05" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "248" } }
+{ "id" : "248", "ITMREF" : "21695104", "DESC" : "Paroxetine Hydrochloride", "PRICE" : "$558.55" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "249" } }
+{ "id" : "249", "ITMREF" : "636292626", "DESC" : "Atenolol", "PRICE" : "$655.23" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "250" } }
+{ "id" : "250", "ITMREF" : "43419804", "DESC" : "OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE", "PRICE" : "$822.40" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "251" } }
+{ "id" : "251", "ITMREF" : "538080221", "DESC" : "Carvedilol", "PRICE" : "$311.35" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "252" } }
+{ "id" : "252", "ITMREF" : "68828193", "DESC" : "Avobenzone, Octinoxate, Octisalate, Octocrylene", "PRICE" : "$249.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "253" } }
+{ "id" : "253", "ITMREF" : "49738555", "DESC" : "EUCALYPTOL, MENTHOL, METHYLSALICYLATE, THYMOL", "PRICE" : "$147.28" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "254" } }
+{ "id" : "254", "ITMREF" : "58238226", "DESC" : "DEXCHLORPHENIRAMINE MALEATE, PSEUDOEPHEDRINE HYDROCHLORIDE", "PRICE" : "$25.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "255" } }
+{ "id" : "255", "ITMREF" : "49348790", "DESC" : "Terbinafine Hydrochloride", "PRICE" : "$529.66" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "256" } }
+{ "id" : "256", "ITMREF" : "59039003", "DESC" : "Aluminum Chlorohydrate", "PRICE" : "$588.30" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "257" } }
+{ "id" : "257", "ITMREF" : "10544549", "DESC" : "VITAMIN A ACETATE, BETA CAROTENE, ASCORBIC ACID, CHOLECALCIFEROL, .ALPHA.TOCOPHEROL ACETATE, DL, THIAMINE MONONITRATE, RIBOFLAVIN, NIACINAMIDE, PYRIDOXINE HYDROCHLORIDE, FOLIC ACID, CYANOCOBALAMIN,", "PRICE" : "$561.34" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "258" } }
+{ "id" : "258", "ITMREF" : "548686270", "DESC" : "Triamcinolone Acetonide", "PRICE" : "$429.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "259" } }
+{ "id" : "259", "ITMREF" : "01724280", "DESC" : "Verapamil Hydrochloride", "PRICE" : "$143.45" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "260" } }
+{ "id" : "260", "ITMREF" : "550451167", "DESC" : "Clonidine Hydrochloride", "PRICE" : "$69.19" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "261" } }
+{ "id" : "261", "ITMREF" : "49884252", "DESC" : "olanzapine and fuoxetine", "PRICE" : "$424.46" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "262" } }
+{ "id" : "262", "ITMREF" : "06151546", "DESC" : "Chlorpromazine Hydrochloride", "PRICE" : "$726.81" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "263" } }
+{ "id" : "263", "ITMREF" : "59262356", "DESC" : "Atropa belladonna, Euphrasia stricta and Calcium sulfide", "PRICE" : "$566.30" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "264" } }
+{ "id" : "264", "ITMREF" : "40076315", "DESC" : "erythromycin", "PRICE" : "$395.47" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "265" } }
+{ "id" : "265", "ITMREF" : "118220105", "DESC" : "Acetaminophen", "PRICE" : "$319.48" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "266" } }
+{ "id" : "266", "ITMREF" : "54092513", "DESC" : "guanfacine", "PRICE" : "$115.58" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "267" } }
+{ "id" : "267", "ITMREF" : "579554199", "DESC" : "Anas barbariae, hepatis et cordis extractum, Baptisia tinctoria, Bryonia, Cinchona officinalis, Dulcamara, Echinacea purpurea, Eucalyptus globulus, Eupatorium perfoliatum, Gelsemium sempervirens, Influenzinum, Phytolacca decandra, Rhus toxicodendron, Sarcolacticum acidum, Sulphur, Wyethia helenioides, Zincum aceticum, Zincum muriaticum, Zincum oxydatum", "PRICE" : "$546.22" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "268" } }
+{ "id" : "268", "ITMREF" : "52565012", "DESC" : "Fluocinolone Acetonide", "PRICE" : "$532.50" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "269" } }
+{ "id" : "269", "ITMREF" : "76138106", "DESC" : "Alcohol", "PRICE" : "$328.90" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "270" } }
+{ "id" : "270", "ITMREF" : "552821001", "DESC" : "SUS SCROFA SKIN", "PRICE" : "$385.35" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "271" } }
+{ "id" : "271", "ITMREF" : "51645750", "DESC" : "DOCUSATE SODIUM", "PRICE" : "$648.71" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "272" } }
+{ "id" : "272", "ITMREF" : "63739128", "DESC" : "Hydrochlorothiazide", "PRICE" : "$714.89" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "273" } }
+{ "id" : "273", "ITMREF" : "35000675", "DESC" : "Benzalkonium chloride", "PRICE" : "$817.55" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "274" } }
+{ "id" : "274", "ITMREF" : "63824781", "DESC" : "Dyclonine Hydrochloride and Glycerin", "PRICE" : "$64.72" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "275" } }
+{ "id" : "275", "ITMREF" : "620110168", "DESC" : "Lansoprazole", "PRICE" : "$638.08" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "276" } }
+{ "id" : "276", "ITMREF" : "43269650", "DESC" : "Triclosan", "PRICE" : "$258.64" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "277" } }
+{ "id" : "277", "ITMREF" : "53157123", "DESC" : "Anticoagulant Citrate Phosphate Double Dextrose", "PRICE" : "$929.96" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "278" } }
+{ "id" : "278", "ITMREF" : "49349955", "DESC" : "Diclofenac Potassium", "PRICE" : "$1016.20" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "279" } }
+{ "id" : "279", "ITMREF" : "75936119", "DESC" : "Octinoxate, Octocrylene, Titanium Dioxide, Zinc Oxide", "PRICE" : "$743.54" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "280" } }
+{ "id" : "280", "ITMREF" : "05550787", "DESC" : "Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate, and Amphetamine Sulfate", "PRICE" : "$11.04" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "281" } }
+{ "id" : "281", "ITMREF" : "516724109", "DESC" : "Ondansetron Hydrochloride", "PRICE" : "$170.27" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "282" } }
+{ "id" : "282", "ITMREF" : "581181438", "DESC" : "Fluphenazine Hydrochloride", "PRICE" : "$589.87" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "283" } }
+{ "id" : "283", "ITMREF" : "40042049", "DESC" : "Ofloxacin", "PRICE" : "$815.45" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "284" } }
+{ "id" : "284", "ITMREF" : "03784007", "DESC" : "alprazolam", "PRICE" : "$85.71" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "285" } }
+{ "id" : "285", "ITMREF" : "49349055", "DESC" : "Lamotrigine", "PRICE" : "$1002.86" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "286" } }
+{ "id" : "286", "ITMREF" : "68084014", "DESC" : "furosemide", "PRICE" : "$750.80" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "287" } }
+{ "id" : "287", "ITMREF" : "06157707", "DESC" : "Simvastatin", "PRICE" : "$168.24" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "288" } }
+{ "id" : "288", "ITMREF" : "551544953", "DESC" : "Azathioprine", "PRICE" : "$436.86" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "289" } }
+{ "id" : "289", "ITMREF" : "76167001", "DESC" : "Fludeoxyglucose F18", "PRICE" : "$153.11" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "290" } }
+{ "id" : "290", "ITMREF" : "636295202", "DESC" : "Duloxetine", "PRICE" : "$906.90" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "291" } }
+{ "id" : "291", "ITMREF" : "01439638", "DESC" : "sumatriptan succinate", "PRICE" : "$283.45" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "292" } }
+{ "id" : "292", "ITMREF" : "04097241", "DESC" : "EPINEPHRINE", "PRICE" : "$879.43" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "293" } }
+{ "id" : "293", "ITMREF" : "43269864", "DESC" : "Triclosan", "PRICE" : "$675.15" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "294" } }
+{ "id" : "294", "ITMREF" : "52125517", "DESC" : "Dicyclomine Hydrochloride", "PRICE" : "$639.59" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "295" } }
+{ "id" : "295", "ITMREF" : "554132501", "DESC" : "menthol", "PRICE" : "$114.53" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "296" } }
+{ "id" : "296", "ITMREF" : "59262271", "DESC" : "Chamomilla and Mercurius Solubilis and Sulphur", "PRICE" : "$236.76" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "297" } }
+{ "id" : "297", "ITMREF" : "49349951", "DESC" : "Asacol", "PRICE" : "$6.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "298" } }
+{ "id" : "298", "ITMREF" : "681690375", "DESC" : "ZINC OXIDE", "PRICE" : "$677.84" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "299" } }
+{ "id" : "299", "ITMREF" : "21695142", "DESC" : "Olanzapine", "PRICE" : "$549.19" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "300" } }
+{ "id" : "300", "ITMREF" : "55315343", "DESC" : "Hydrocortisone", "PRICE" : "$147.43" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "301" } }
+{ "id" : "301", "ITMREF" : "16038001", "DESC" : "Benzalkonium Chloride", "PRICE" : "$371.93" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "302" } }
+{ "id" : "302", "ITMREF" : "49884308", "DESC" : "clonazepam", "PRICE" : "$186.40" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "303" } }
+{ "id" : "303", "ITMREF" : "00241562", "DESC" : "Hydroxychloroquine Sulfate", "PRICE" : "$244.13" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "304" } }
+{ "id" : "304", "ITMREF" : "62175310", "DESC" : "Methylphenidate Hydrochloride", "PRICE" : "$125.72" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "305" } }
+{ "id" : "305", "ITMREF" : "492880947", "DESC" : "Treatment Set TS351003", "PRICE" : "$63.27" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "306" } }
+{ "id" : "306", "ITMREF" : "551546809", "DESC" : "Calgest", "PRICE" : "$222.57" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "307" } }
+{ "id" : "307", "ITMREF" : "58930039", "DESC" : "Adenosine 0.04%", "PRICE" : "$55.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "308" } }
+{ "id" : "308", "ITMREF" : "00074139", "DESC" : "carvedilol", "PRICE" : "$344.38" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "309" } }
+{ "id" : "309", "ITMREF" : "59779143", "DESC" : "Aspirin, Caffeine", "PRICE" : "$1042.31" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "310" } }
+{ "id" : "310", "ITMREF" : "60429256", "DESC" : "Carbamazepine", "PRICE" : "$882.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "311" } }
+{ "id" : "311", "ITMREF" : "49035163", "DESC" : "SODIUM FLUORIDE", "PRICE" : "$360.69" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "312" } }
+{ "id" : "312", "ITMREF" : "67457259", "DESC" : "Isosulfan Blue", "PRICE" : "$760.70" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "313" } }
+{ "id" : "313", "ITMREF" : "548686136", "DESC" : "colesevelam hydrochloride", "PRICE" : "$921.64" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "314" } }
+{ "id" : "314", "ITMREF" : "68988010", "DESC" : "Dimethicone", "PRICE" : "$185.40" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "315" } }
+{ "id" : "315", "ITMREF" : "65923902", "DESC" : "MENTHOL, METHYL SALICYLATE", "PRICE" : "$307.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "316" } }
+{ "id" : "316", "ITMREF" : "369873010", "DESC" : "Lombardy Poplar", "PRICE" : "$265.63" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "317" } }
+{ "id" : "317", "ITMREF" : "03782512", "DESC" : "capecitabine", "PRICE" : "$67.68" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "318" } }
+{ "id" : "318", "ITMREF" : "22431359", "DESC" : "Colloidal Oatmeal", "PRICE" : "$193.00" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "319" } }
+{ "id" : "319", "ITMREF" : "55301006", "DESC" : "AVOBENZONE", "PRICE" : "$788.63" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "320" } }
+{ "id" : "320", "ITMREF" : "55315140", "DESC" : "Sennosides", "PRICE" : "$575.35" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "321" } }
+{ "id" : "321", "ITMREF" : "49738350", "DESC" : "WHITE PETROLATUM", "PRICE" : "$904.58" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "322" } }
+{ "id" : "322", "ITMREF" : "575200141", "DESC" : "Spongia tosta, Iodium Fucus vesiculosus, Belladonna, Adenosine triphosphate, Parathyroid,", "PRICE" : "$497.80" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "323" } }
+{ "id" : "323", "ITMREF" : "54575315", "DESC" : "solenopsis invicta", "PRICE" : "$1013.73" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "324" } }
+{ "id" : "324", "ITMREF" : "76354015", "DESC" : "OXYBENZONE", "PRICE" : "$540.54" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "325" } }
+{ "id" : "325", "ITMREF" : "667159747", "DESC" : "Acetaminophen", "PRICE" : "$370.32" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "326" } }
+{ "id" : "326", "ITMREF" : "619571070", "DESC" : "OCTINOXATE", "PRICE" : "$802.94" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "327" } }
+{ "id" : "327", "ITMREF" : "504360916", "DESC" : "Citalopram Hydrobromide", "PRICE" : "$413.53" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "328" } }
+{ "id" : "328", "ITMREF" : "49643003", "DESC" : "Cattle Epithelia", "PRICE" : "$282.34" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "329" } }
+{ "id" : "329", "ITMREF" : "11410036", "DESC" : "AVOBENZONE, OCTINOXATE, and OXYBENZONE", "PRICE" : "$778.73" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "330" } }
+{ "id" : "330", "ITMREF" : "687882115", "DESC" : "Allopurinol", "PRICE" : "$1051.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "331" } }
+{ "id" : "331", "ITMREF" : "24658301", "DESC" : "Simvastatin", "PRICE" : "$211.98" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "332" } }
+{ "id" : "332", "ITMREF" : "43269808", "DESC" : "Triclosan", "PRICE" : "$775.19" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "333" } }
+{ "id" : "333", "ITMREF" : "68084651", "DESC" : "Clarithromycin", "PRICE" : "$302.10" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "334" } }
+{ "id" : "334", "ITMREF" : "03785013", "DESC" : "Felodipine", "PRICE" : "$754.99" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "335" } }
+{ "id" : "335", "ITMREF" : "650441081", "DESC" : "Bahia Grass Paspalum notatum", "PRICE" : "$209.16" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "336" } }
+{ "id" : "336", "ITMREF" : "586682531", "DESC" : "OCTINOXATE", "PRICE" : "$764.55" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "337" } }
+{ "id" : "337", "ITMREF" : "60429058", "DESC" : "Diclofenac Sodium", "PRICE" : "$560.42" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "338" } }
+{ "id" : "338", "ITMREF" : "67172557", "DESC" : "Polyvinyl alcohol and Povidone", "PRICE" : "$10.99" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "339" } }
+{ "id" : "339", "ITMREF" : "04099046", "DESC" : "BUPIVACAINE HYDROCHLORIDE AND EPINEPHRINE BITARTRATE", "PRICE" : "$210.49" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "340" } }
+{ "id" : "340", "ITMREF" : "650449940", "DESC" : "Honey Bee hymenoptera venom Multidose", "PRICE" : "$847.49" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "341" } }
+{ "id" : "341", "ITMREF" : "51824600", "DESC" : "TRICLOSAN", "PRICE" : "$466.58" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "342" } }
+{ "id" : "342", "ITMREF" : "67544106", "DESC" : "Lovastatin", "PRICE" : "$666.12" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "343" } }
+{ "id" : "343", "ITMREF" : "63868752", "DESC" : "Guaifenesin/phenylephrine", "PRICE" : "$991.31" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "344" } }
+{ "id" : "344", "ITMREF" : "63824474", "DESC" : "Benzalkonium Chloride", "PRICE" : "$283.99" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "345" } }
+{ "id" : "345", "ITMREF" : "52685407", "DESC" : "Octinoxate and Titanium dioxide", "PRICE" : "$699.09" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "346" } }
+{ "id" : "346", "ITMREF" : "593510324", "DESC" : "OCTINOXATE, TITANIUM DIOXIDE", "PRICE" : "$536.66" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "347" } }
+{ "id" : "347", "ITMREF" : "57237017", "DESC" : "Duloxetine Hydrochloride", "PRICE" : "$663.63" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "348" } }
+{ "id" : "348", "ITMREF" : "06037864", "DESC" : "Triamcinolone Acetonide", "PRICE" : "$848.00" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "349" } }
+{ "id" : "349", "ITMREF" : "636294399", "DESC" : "Cetirizine HCl and Pseudoephedrine HCl", "PRICE" : "$307.39" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "350" } }
+{ "id" : "350", "ITMREF" : "35356922", "DESC" : "Metformin Hydrochloride", "PRICE" : "$533.54" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "351" } }
+{ "id" : "351", "ITMREF" : "501841030", "DESC" : "Zinc Oxide", "PRICE" : "$1053.97" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "352" } }
+{ "id" : "352", "ITMREF" : "21695019", "DESC" : "BuPROPion Hydrochloride", "PRICE" : "$43.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "353" } }
+{ "id" : "353", "ITMREF" : "628391104", "DESC" : "Octinoxate and Octisalate", "PRICE" : "$1041.41" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "354" } }
+{ "id" : "354", "ITMREF" : "55111697", "DESC" : "GLYBURIDE AND METFORMIN HYDROCHLORIDE", "PRICE" : "$314.03" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "355" } }
+{ "id" : "355", "ITMREF" : "687451022", "DESC" : "OCTINOXATE and TITANIUM DIOXIDE", "PRICE" : "$712.22" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "356" } }
+{ "id" : "356", "ITMREF" : "62802228", "DESC" : "avobenzone, homosalate, octisalate, oxybenzone, octocrylene", "PRICE" : "$27.88" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "357" } }
+{ "id" : "357", "ITMREF" : "00692250", "DESC" : "amlodipine besylate and atorvastatin calcium", "PRICE" : "$542.24" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "358" } }
+{ "id" : "358", "ITMREF" : "00937236", "DESC" : "Ondansetron Hydrochloride", "PRICE" : "$606.02" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "359" } }
+{ "id" : "359", "ITMREF" : "51060009", "DESC" : "Octinoxate, Octisalate, and Oxybenzone", "PRICE" : "$369.66" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "360" } }
+{ "id" : "360", "ITMREF" : "551541057", "DESC" : "CEFEPIME HYDROCHLORIDE", "PRICE" : "$234.12" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "361" } }
+{ "id" : "361", "ITMREF" : "43419384", "DESC" : "OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE", "PRICE" : "$639.83" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "362" } }
+{ "id" : "362", "ITMREF" : "369872300", "DESC" : "Canary Grass", "PRICE" : "$252.78" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "363" } }
+{ "id" : "363", "ITMREF" : "687882212", "DESC" : "Amitriptyline Hydrochloride", "PRICE" : "$826.10" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "364" } }
+{ "id" : "364", "ITMREF" : "37808400", "DESC" : "Mineral oil, Petrolatum, Phenylephrine HCl, Shark liver oil", "PRICE" : "$869.56" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "365" } }
+{ "id" : "365", "ITMREF" : "55312046", "DESC" : "Acetaminophen", "PRICE" : "$319.48" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "366" } }
+{ "id" : "366", "ITMREF" : "10019035", "DESC" : "Fentanyl Citrate", "PRICE" : "$995.62" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "367" } }
+{ "id" : "367", "ITMREF" : "21695772", "DESC" : "Penicillin V Potassium", "PRICE" : "$819.26" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "368" } }
+{ "id" : "368", "ITMREF" : "64205104", "DESC" : "Amoxicillin", "PRICE" : "$502.15" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "369" } }
+{ "id" : "369", "ITMREF" : "76439141", "DESC" : "Losartan Potassium", "PRICE" : "$677.19" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "370" } }
+{ "id" : "370", "ITMREF" : "52426520", "DESC" : "Hexylresorcinol", "PRICE" : "$120.31" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "371" } }
+{ "id" : "371", "ITMREF" : "647252434", "DESC" : "benztropine mesylate", "PRICE" : "$666.35" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "372" } }
+{ "id" : "372", "ITMREF" : "68828061", "DESC" : "Octinoxate, Oxybenzone, TItanium Dioxide", "PRICE" : "$85.32" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "373" } }
+{ "id" : "373", "ITMREF" : "507303004", "DESC" : "isopropyl alcohol", "PRICE" : "$823.02" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "374" } }
+{ "id" : "374", "ITMREF" : "42192330", "DESC" : "LEVOTHYROXINE, LIOTHYRONINE", "PRICE" : "$642.40" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "375" } }
+{ "id" : "375", "ITMREF" : "57664502", "DESC" : "tizanidine", "PRICE" : "$116.86" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "376" } }
+{ "id" : "376", "ITMREF" : "13537525", "DESC" : "Octinoxate and Oxybenzone", "PRICE" : "$1003.41" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "377" } }
+{ "id" : "377", "ITMREF" : "59579004", "DESC" : "Nitrous Oxide", "PRICE" : "$36.53" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "378" } }
+{ "id" : "378", "ITMREF" : "582320517", "DESC" : "Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone", "PRICE" : "$894.67" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "379" } }
+{ "id" : "379", "ITMREF" : "13537243", "DESC" : "Octinoxate and Titanium Dioxide", "PRICE" : "$226.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "380" } }
+{ "id" : "380", "ITMREF" : "06151535", "DESC" : "spironolactone", "PRICE" : "$337.81" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "381" } }
+{ "id" : "381", "ITMREF" : "49852003", "DESC" : "Ethyl Alcohol", "PRICE" : "$395.33" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "382" } }
+{ "id" : "382", "ITMREF" : "673450703", "DESC" : "Titanium Dioxide", "PRICE" : "$243.28" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "383" } }
+{ "id" : "383", "ITMREF" : "09440493", "DESC" : "Albumin Human", "PRICE" : "$560.23" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "384" } }
+{ "id" : "384", "ITMREF" : "21695595", "DESC" : "neomycin sulfate, polymyxin B sulfate and dexamethasone", "PRICE" : "$997.04" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "385" } }
+{ "id" : "385", "ITMREF" : "50563106", "DESC" : "ALCOHOL", "PRICE" : "$439.98" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "386" } }
+{ "id" : "386", "ITMREF" : "02680084", "DESC" : "Allergenic Extracts Alum Precipitated", "PRICE" : "$104.55" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "387" } }
+{ "id" : "387", "ITMREF" : "16714408", "DESC" : "Norethindrone Acetate/Ethinyl Estradiol", "PRICE" : "$1042.37" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "388" } }
+{ "id" : "388", "ITMREF" : "16714385", "DESC" : "Donepezil Hydrochloride", "PRICE" : "$813.95" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "389" } }
+{ "id" : "389", "ITMREF" : "605057003", "DESC" : "fentanyl", "PRICE" : "$851.12" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "390" } }
+{ "id" : "390", "ITMREF" : "650446581", "DESC" : "Insects (whole body) Cockroach, German Blatella germanica", "PRICE" : "$524.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "391" } }
+{ "id" : "391", "ITMREF" : "68988110", "DESC" : "Titanium Dioxide, OCTINOXATE, Zinc Oxide", "PRICE" : "$990.01" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "392" } }
+{ "id" : "392", "ITMREF" : "51079776", "DESC" : "hydrochlorothiazide", "PRICE" : "$76.77" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "393" } }
+{ "id" : "393", "ITMREF" : "05915571", "DESC" : "Trimethoprim", "PRICE" : "$216.35" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "394" } }
+{ "id" : "394", "ITMREF" : "575201034", "DESC" : "Echinacea, Uvaursi, Baptisia tinctoria, Convallaria majalis, Kali muriaticum, Pinus sylvestris, Thuja occidentalis, Bryonia, Condurango, Crotalus horridus, Ginkgo biloba, Lachesis mutus, Selenium met", "PRICE" : "$701.63" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "395" } }
+{ "id" : "395", "ITMREF" : "55111130", "DESC" : "Ranitidine Hydrochloride", "PRICE" : "$205.32" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "396" } }
+{ "id" : "396", "ITMREF" : "679380949", "DESC" : "OCTINOXATE and TITANIUM DIOXIDE", "PRICE" : "$642.41" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "397" } }
+{ "id" : "397", "ITMREF" : "581181341", "DESC" : "Levothyroxine Sodium", "PRICE" : "$653.48" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "398" } }
+{ "id" : "398", "ITMREF" : "56131759", "DESC" : "Tricolsan", "PRICE" : "$404.03" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "399" } }
+{ "id" : "399", "ITMREF" : "98132727", "DESC" : "Titanium Dioxide and Zinc Oxide", "PRICE" : "$735.22" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "400" } }
+{ "id" : "400", "ITMREF" : "49349142", "DESC" : "Topiramate", "PRICE" : "$7.33" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "401" } }
+{ "id" : "401", "ITMREF" : "55111209", "DESC" : "Risperidone", "PRICE" : "$169.22" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "402" } }
+{ "id" : "402", "ITMREF" : "61570032", "DESC" : "NEOMYCIN SULFATE, POLYMYXIN B SULFATE, and HYDROCORTISONE ACETATE", "PRICE" : "$397.80" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "403" } }
+{ "id" : "403", "ITMREF" : "101911365", "DESC" : "CHAMOMILLA PLANT", "PRICE" : "$668.84" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "404" } }
+{ "id" : "404", "ITMREF" : "58479003", "DESC" : "ZINC OXIDE", "PRICE" : "$583.98" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "405" } }
+{ "id" : "405", "ITMREF" : "611641001", "DESC" : "CURCUMA AROMATICA ROOT OIL", "PRICE" : "$452.80" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "406" } }
+{ "id" : "406", "ITMREF" : "49348001", "DESC" : "Aspirin", "PRICE" : "$1051.98" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "407" } }
+{ "id" : "407", "ITMREF" : "492880121", "DESC" : "Standardized Cat Hair", "PRICE" : "$931.68" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "408" } }
+{ "id" : "408", "ITMREF" : "33261354", "DESC" : "Diethylpropion Hydrochloride", "PRICE" : "$747.69" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "409" } }
+{ "id" : "409", "ITMREF" : "35356293", "DESC" : "valsartan and hydrochlorothiazide", "PRICE" : "$113.82" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "410" } }
+{ "id" : "410", "ITMREF" : "36800444", "DESC" : "Dextromethorphan HBr, Phenylephrine HCl", "PRICE" : "$881.69" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "411" } }
+{ "id" : "411", "ITMREF" : "10738201", "DESC" : "LIDOCAINE AND MENTHOL", "PRICE" : "$754.23" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "412" } }
+{ "id" : "412", "ITMREF" : "650445008", "DESC" : "Alternaria tenuis", "PRICE" : "$917.88" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "413" } }
+{ "id" : "413", "ITMREF" : "12634849", "DESC" : "Hydrocodone Bitartrate and Acetaminophen", "PRICE" : "$725.73" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "414" } }
+{ "id" : "414", "ITMREF" : "76237215", "DESC" : "Omeprazole", "PRICE" : "$1005.35" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "415" } }
+{ "id" : "415", "ITMREF" : "536032013", "DESC" : "Triclosan", "PRICE" : "$926.62" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "416" } }
+{ "id" : "416", "ITMREF" : "03785012", "DESC" : "Felodipine", "PRICE" : "$808.99" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "417" } }
+{ "id" : "417", "ITMREF" : "551542027", "DESC" : "IRBESARTAN AND HYDROCHLOROTHIAZIDE", "PRICE" : "$99.90" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "418" } }
+{ "id" : "418", "ITMREF" : "01857322", "DESC" : "ipratropium bromide and albuterol sulfate", "PRICE" : "$283.19" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "419" } }
+{ "id" : "419", "ITMREF" : "42702102", "DESC" : "phenylephrine hydrochloride", "PRICE" : "$201.74" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "420" } }
+{ "id" : "420", "ITMREF" : "605053952", "DESC" : "Omeprazole", "PRICE" : "$172.71" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "421" } }
+{ "id" : "421", "ITMREF" : "04093507", "DESC" : "IMIPENEM and CILASTATIN SODIUM", "PRICE" : "$359.69" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "422" } }
+{ "id" : "422", "ITMREF" : "667159837", "DESC" : "Acetaminophen", "PRICE" : "$736.82" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "423" } }
+{ "id" : "423", "ITMREF" : "248460001", "DESC" : "Oxygen", "PRICE" : "$344.77" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "424" } }
+{ "id" : "424", "ITMREF" : "42507485", "DESC" : "calcium carbonate", "PRICE" : "$911.80" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "425" } }
+{ "id" : "425", "ITMREF" : "515140214", "DESC" : "Octinoxate and Oxybenzone", "PRICE" : "$359.15" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "426" } }
+{ "id" : "426", "ITMREF" : "01730722", "DESC" : "bupropion hydrochloride", "PRICE" : "$539.18" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "427" } }
+{ "id" : "427", "ITMREF" : "52125261", "DESC" : "Buspirone Hydrochloride", "PRICE" : "$519.49" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "428" } }
+{ "id" : "428", "ITMREF" : "492213000", "DESC" : "OXYGEN", "PRICE" : "$1047.39" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "429" } }
+{ "id" : "429", "ITMREF" : "00932238", "DESC" : "Cephalexin", "PRICE" : "$261.65" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "430" } }
+{ "id" : "430", "ITMREF" : "63347301", "DESC" : "COAL TAR", "PRICE" : "$76.75" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "431" } }
+{ "id" : "431", "ITMREF" : "63736819", "DESC" : "Tolnaftate", "PRICE" : "$435.25" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "432" } }
+{ "id" : "432", "ITMREF" : "21695337", "DESC" : "Ranitidine Hydrochloride", "PRICE" : "$637.04" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "433" } }
+{ "id" : "433", "ITMREF" : "68084884", "DESC" : "Hydrocodone Bitartrate and Acetaminophen", "PRICE" : "$321.30" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "434" } }
+{ "id" : "434", "ITMREF" : "63868807", "DESC" : "Vicks NyQuil", "PRICE" : "$904.79" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "435" } }
+{ "id" : "435", "ITMREF" : "14783240", "DESC" : "OCTINOXATE and OXYBENZONE", "PRICE" : "$56.71" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "436" } }
+{ "id" : "436", "ITMREF" : "101911857", "DESC" : "POTASSIUM IODIDE", "PRICE" : "$839.86" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "437" } }
+{ "id" : "437", "ITMREF" : "495802411", "DESC" : "Robitussin CF", "PRICE" : "$641.10" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "438" } }
+{ "id" : "438", "ITMREF" : "579555164", "DESC" : "Aconitum napellus, Allium cepa, Ambrosia artemisiaefolia, Apis mellifica, Arsenicum album, Belladonna, Cactus grandiflorus, Dulcamara, Euphrasia officinalis, Gelsemium sempervirens, Graphites, Hamamelis virginiana, Hepar sulphuris calcareum, Kali iodatum, Mercurius vivus, Natrum muriaticum, Pulsatilla, Rhus toxicodendron, Ruta graveolens,Sabadilla, Sulphur, Thuja occidentalis, Zincum metallicum", "PRICE" : "$613.11" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "439" } }
+{ "id" : "439", "ITMREF" : "30142083", "DESC" : "Ibuprofen, Pseudoephedrine Hydrochloride", "PRICE" : "$727.79" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "440" } }
+{ "id" : "440", "ITMREF" : "21749700", "DESC" : "ALCOHOL", "PRICE" : "$311.22" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "441" } }
+{ "id" : "441", "ITMREF" : "575200241", "DESC" : "Chromium GTF, Hypothalamus, HCG, Garcinia cambogia,", "PRICE" : "$875.19" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "442" } }
+{ "id" : "442", "ITMREF" : "09046326", "DESC" : "Metformin Hydrochloride", "PRICE" : "$301.80" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "443" } }
+{ "id" : "443", "ITMREF" : "581183340", "DESC" : "Diphenhydramine Hydrochloride", "PRICE" : "$969.57" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "444" } }
+{ "id" : "444", "ITMREF" : "63323132", "DESC" : "MITOXANTRONE HYDROCHLORIDE", "PRICE" : "$564.72" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "445" } }
+{ "id" : "445", "ITMREF" : "489511220", "DESC" : "Argentite Urtica Special Order", "PRICE" : "$1032.58" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "446" } }
+{ "id" : "446", "ITMREF" : "49973760", "DESC" : "Phenazopyridine Hydrochloride", "PRICE" : "$415.71" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "447" } }
+{ "id" : "447", "ITMREF" : "10237625", "DESC" : "Sodium Fluoride", "PRICE" : "$482.60" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "448" } }
+{ "id" : "448", "ITMREF" : "685990205", "DESC" : "Zinc Oxide", "PRICE" : "$659.75" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "449" } }
+{ "id" : "449", "ITMREF" : "04560464", "DESC" : "THYROID, PORCINE", "PRICE" : "$792.50" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "450" } }
+{ "id" : "450", "ITMREF" : "05363381", "DESC" : "Bisacodyl", "PRICE" : "$75.84" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "451" } }
+{ "id" : "451", "ITMREF" : "64661060", "DESC" : "Dihydrocodeine Bitartrate, Brompheniramine Maleate, Pseudoephedrine Hydrochloride", "PRICE" : "$888.01" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "452" } }
+{ "id" : "452", "ITMREF" : "45802308", "DESC" : "BENZOYL PEROXIDE", "PRICE" : "$921.55" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "453" } }
+{ "id" : "453", "ITMREF" : "76170102", "DESC" : "sodium fluoride", "PRICE" : "$236.09" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "454" } }
+{ "id" : "454", "ITMREF" : "54162925", "DESC" : "Benzocaine", "PRICE" : "$67.31" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "455" } }
+{ "id" : "455", "ITMREF" : "548681518", "DESC" : "Propranolol", "PRICE" : "$834.89" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "456" } }
+{ "id" : "456", "ITMREF" : "01130695", "DESC" : "Tolnaftate", "PRICE" : "$1045.85" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "457" } }
+{ "id" : "457", "ITMREF" : "30142645", "DESC" : "loperamide HCl", "PRICE" : "$189.59" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "458" } }
+{ "id" : "458", "ITMREF" : "42023110", "DESC" : "estradiol valerate", "PRICE" : "$145.10" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "459" } }
+{ "id" : "459", "ITMREF" : "24385984", "DESC" : "Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan HBr, Phenylephrine HCl", "PRICE" : "$616.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "460" } }
+{ "id" : "460", "ITMREF" : "06410497", "DESC" : "Sodium Chloride", "PRICE" : "$417.91" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "461" } }
+{ "id" : "461", "ITMREF" : "42388011", "DESC" : "cabozantinib", "PRICE" : "$170.09" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "462" } }
+{ "id" : "462", "ITMREF" : "06031008", "DESC" : "Albuterol Sulfate", "PRICE" : "$918.13" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "463" } }
+{ "id" : "463", "ITMREF" : "62750026", "DESC" : "zinc acetate and zinc gluconate", "PRICE" : "$591.96" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "464" } }
+{ "id" : "464", "ITMREF" : "49852176", "DESC" : "TRICLOSAN", "PRICE" : "$992.65" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "465" } }
+{ "id" : "465", "ITMREF" : "55312055", "DESC" : "Benzalkonium chloride", "PRICE" : "$414.44" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "466" } }
+{ "id" : "466", "ITMREF" : "02680060", "DESC" : "Allergenic Extracts Alum Precipitated", "PRICE" : "$46.20" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "467" } }
+{ "id" : "467", "ITMREF" : "01350435", "DESC" : "sodium fluoride", "PRICE" : "$76.84" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "468" } }
+{ "id" : "468", "ITMREF" : "636294126", "DESC" : "benzonatate", "PRICE" : "$134.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "469" } }
+{ "id" : "469", "ITMREF" : "21130075", "DESC" : "Bacitracin Zinc", "PRICE" : "$578.17" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "470" } }
+{ "id" : "470", "ITMREF" : "369871334", "DESC" : "Honeydew Melon", "PRICE" : "$676.49" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "471" } }
+{ "id" : "471", "ITMREF" : "36800078", "DESC" : "ETHYL ALCOHOL", "PRICE" : "$630.57" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "472" } }
+{ "id" : "472", "ITMREF" : "496931601", "DESC" : "Penicillium chrysogenum var. chrysogenum and Penicillium glabrum", "PRICE" : "$252.53" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "473" } }
+{ "id" : "473", "ITMREF" : "489518216", "DESC" : "Strophanthus Aurum", "PRICE" : "$850.19" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "474" } }
+{ "id" : "474", "ITMREF" : "66336094", "DESC" : "Prednisone", "PRICE" : "$20.01" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "475" } }
+{ "id" : "475", "ITMREF" : "676841901", "DESC" : "Ethiodized Oil", "PRICE" : "$486.09" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "476" } }
+{ "id" : "476", "ITMREF" : "55289909", "DESC" : "Clarithromycin", "PRICE" : "$599.99" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "477" } }
+{ "id" : "477", "ITMREF" : "548681326", "DESC" : "Nifedipine", "PRICE" : "$462.81" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "478" } }
+{ "id" : "478", "ITMREF" : "37000114", "DESC" : "Pyrithione Zinc", "PRICE" : "$437.75" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "479" } }
+{ "id" : "479", "ITMREF" : "49738369", "DESC" : "Hydrocortisone", "PRICE" : "$805.01" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "480" } }
+{ "id" : "480", "ITMREF" : "681510177", "DESC" : "Simvastatin", "PRICE" : "$20.66" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "481" } }
+{ "id" : "481", "ITMREF" : "605053675", "DESC" : "paroxetine hydrochloride", "PRICE" : "$185.30" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "482" } }
+{ "id" : "482", "ITMREF" : "08320510", "DESC" : "Bethanechol Chloride", "PRICE" : "$210.14" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "483" } }
+{ "id" : "483", "ITMREF" : "59050331", "DESC" : "BENZALKONIUM CHLORIDE", "PRICE" : "$633.22" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "484" } }
+{ "id" : "484", "ITMREF" : "54641002", "DESC" : "Camphor (Natural)", "PRICE" : "$720.18" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "485" } }
+{ "id" : "485", "ITMREF" : "41520224", "DESC" : "Loperamide Hydrochloride", "PRICE" : "$387.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "486" } }
+{ "id" : "486", "ITMREF" : "687451041", "DESC" : "OCTINOXATE", "PRICE" : "$915.48" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "487" } }
+{ "id" : "487", "ITMREF" : "596670098", "DESC" : "Arum Tri 30c, Belledonna 30c, Carbo Animalis 30c, Causticum 30c, Echinacea30c, Hydrastis 30c, Lachesis 30c, Phosphorous 30c, Phytolacca 30c, Nitricum Acidum 30c, Nux Vomica 30c, Mercurius Sol 30c , streptococcinum 30c, Sabadilla 30c, Spigellia 30c", "PRICE" : "$303.17" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "488" } }
+{ "id" : "488", "ITMREF" : "579552760", "DESC" : "Aesculus hippocastanum, flos, Agrimonia eupatoria, flos, Angelica archangelica, Capsicum annuum, Carpinus betulus, flos, Chamomilla, Clematis vitalba, flos, Cocculus indicus, Glonoinum, Hoangnan, Juglans regia, flos, Larix decidua, flos, Lonicera caprifolium, flos, Mimulus guttatus, flos, Nux vomica, Olea europaea, flos, Oxytropis lambertii, Picricum acidum, Rhus toxicodendron, Scleranthus annuus, flos, Secale cornatum, Stellaria media, Sulphuricum acidum", "PRICE" : "$850.69" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "489" } }
+{ "id" : "489", "ITMREF" : "49643400", "DESC" : "Prosopis juliflora", "PRICE" : "$176.31" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "490" } }
+{ "id" : "490", "ITMREF" : "492880579", "DESC" : "Trichophyton rubrum", "PRICE" : "$147.80" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "491" } }
+{ "id" : "491", "ITMREF" : "43068113", "DESC" : "iloperidone", "PRICE" : "$271.54" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "492" } }
+{ "id" : "492", "ITMREF" : "59779170", "DESC" : "Nicotine Polacrilex", "PRICE" : "$677.08" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "493" } }
+{ "id" : "493", "ITMREF" : "01439938", "DESC" : "Amoxicillin", "PRICE" : "$345.65" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "494" } }
+{ "id" : "494", "ITMREF" : "28595570", "DESC" : "spinosad", "PRICE" : "$189.68" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "495" } }
+{ "id" : "495", "ITMREF" : "49349647", "DESC" : "Hydroxyzine Hydrochloride", "PRICE" : "$274.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "496" } }
+{ "id" : "496", "ITMREF" : "42936585", "DESC" : "ALCOHOL", "PRICE" : "$905.18" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "497" } }
+{ "id" : "497", "ITMREF" : "369871360", "DESC" : "Pineapple", "PRICE" : "$418.79" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "498" } }
+{ "id" : "498", "ITMREF" : "488151001", "DESC" : "Sodium Iodide I 123", "PRICE" : "$274.14" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "499" } }
+{ "id" : "499", "ITMREF" : "06416117", "DESC" : "Ampicillin and Sulbactam", "PRICE" : "$404.10" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "500" } }
+{ "id" : "500", "ITMREF" : "60760131", "DESC" : "clonidine hydrochloride", "PRICE" : "$760.05" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "501" } }
+{ "id" : "501", "ITMREF" : "50242138", "DESC" : "tocilizumab", "PRICE" : "$712.71" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "502" } }
+{ "id" : "502", "ITMREF" : "41616882", "DESC" : "NICARdipine Hydrochloride", "PRICE" : "$633.68" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "503" } }
+{ "id" : "503", "ITMREF" : "52343005", "DESC" : "Risperidone", "PRICE" : "$685.83" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "504" } }
+{ "id" : "504", "ITMREF" : "575200787", "DESC" : "Anthracinum,", "PRICE" : "$187.31" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "505" } }
+{ "id" : "505", "ITMREF" : "67046112", "DESC" : "Citalopram Hydrobromide", "PRICE" : "$753.59" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "506" } }
+{ "id" : "506", "ITMREF" : "65862097", "DESC" : "Meloxicam", "PRICE" : "$409.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "507" } }
+{ "id" : "507", "ITMREF" : "49349607", "DESC" : "PredniSONE", "PRICE" : "$196.65" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "508" } }
+{ "id" : "508", "ITMREF" : "03783611", "DESC" : "Liothyronine sodium", "PRICE" : "$1.13" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "509" } }
+{ "id" : "509", "ITMREF" : "04068553", "DESC" : "oxycodone and acetaminophen", "PRICE" : "$771.51" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "510" } }
+{ "id" : "510", "ITMREF" : "536451141", "DESC" : "Apis Mell.", "PRICE" : "$846.13" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "511" } }
+{ "id" : "511", "ITMREF" : "37000318", "DESC" : "Homosalate, Octisalate, and Octocrylene", "PRICE" : "$78.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "512" } }
+{ "id" : "512", "ITMREF" : "621680085", "DESC" : "Menthol", "PRICE" : "$29.60" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "513" } }
+{ "id" : "513", "ITMREF" : "24236991", "DESC" : "ARIPIPRAZOLE", "PRICE" : "$233.14" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "514" } }
+{ "id" : "514", "ITMREF" : "21695014", "DESC" : "Baclofen", "PRICE" : "$643.75" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "515" } }
+{ "id" : "515", "ITMREF" : "21130328", "DESC" : "Phenol", "PRICE" : "$597.12" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "516" } }
+{ "id" : "516", "ITMREF" : "584142047", "DESC" : "OCTINOXATE, OCTISALATE, and AVOBENZONE", "PRICE" : "$1044.64" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "517" } }
+{ "id" : "517", "ITMREF" : "549731130", "DESC" : "TOXICODENDRON RADICANS LEAF, CROTON TIGLIUM SEED, and XEROPHYLLUM ASPHODELOIDES", "PRICE" : "$380.53" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "518" } }
+{ "id" : "518", "ITMREF" : "551540696", "DESC" : "BENZTROPINE MESYLATE", "PRICE" : "$346.05" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "519" } }
+{ "id" : "519", "ITMREF" : "00937602", "DESC" : "Temozolomide", "PRICE" : "$1006.47" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "520" } }
+{ "id" : "520", "ITMREF" : "02583691", "DESC" : "diltiazem hydrochloride", "PRICE" : "$129.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "521" } }
+{ "id" : "521", "ITMREF" : "01790022", "DESC" : "BuPROPion Hydrochloride", "PRICE" : "$546.69" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "522" } }
+{ "id" : "522", "ITMREF" : "49349773", "DESC" : "Erythromycin", "PRICE" : "$274.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "523" } }
+{ "id" : "523", "ITMREF" : "35356997", "DESC" : "Pramipexole Dihydrochloride", "PRICE" : "$210.91" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "524" } }
+{ "id" : "524", "ITMREF" : "16714631", "DESC" : "Alendronate Sodium", "PRICE" : "$392.92" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "525" } }
+{ "id" : "525", "ITMREF" : "49035176", "DESC" : "Cetirizine HCl, Pseudoephedrine HCl", "PRICE" : "$735.87" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "526" } }
+{ "id" : "526", "ITMREF" : "35192009", "DESC" : "Octinoxate Titanium Dioxide", "PRICE" : "$247.99" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "527" } }
+{ "id" : "527", "ITMREF" : "37205719", "DESC" : "acetaminophen, dextromethorphan Hbr, Phenylephrine HCl", "PRICE" : "$315.86" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "528" } }
+{ "id" : "528", "ITMREF" : "51079454", "DESC" : "Simvastatin", "PRICE" : "$1027.02" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "529" } }
+{ "id" : "529", "ITMREF" : "98132152", "DESC" : "Titanium Dioxide and Zinc Oxide", "PRICE" : "$157.53" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "530" } }
+{ "id" : "530", "ITMREF" : "06035166", "DESC" : "phenobarbital", "PRICE" : "$203.32" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "531" } }
+{ "id" : "531", "ITMREF" : "98132138", "DESC" : "Titanium Dioxide and Zinc Oxide", "PRICE" : "$834.89" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "532" } }
+{ "id" : "532", "ITMREF" : "04040360", "DESC" : "neomycin, polymixin, bacitracin", "PRICE" : "$191.72" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "533" } }
+{ "id" : "533", "ITMREF" : "01871704", "DESC" : "phytonadione", "PRICE" : "$17.31" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "534" } }
+{ "id" : "534", "ITMREF" : "00090827", "DESC" : "dinoprostone", "PRICE" : "$543.74" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "535" } }
+{ "id" : "535", "ITMREF" : "575200383", "DESC" : "Agnus castus, Lachesis mutus, Lycopodium clavatum, Natrum muriaticum, Nux vomica, Phosphoricum acidum, Phosphorus, Pulsatilla, Sepia,", "PRICE" : "$19.97" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "536" } }
+{ "id" : "536", "ITMREF" : "55111338", "DESC" : "Amlodipine Besylate and Benazepril Hydrochloride", "PRICE" : "$465.95" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "537" } }
+{ "id" : "537", "ITMREF" : "04093815", "DESC" : "Morphine Sulfate", "PRICE" : "$413.08" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "538" } }
+{ "id" : "538", "ITMREF" : "51325400", "DESC" : "Salicylic acid", "PRICE" : "$179.62" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "539" } }
+{ "id" : "539", "ITMREF" : "41520103", "DESC" : "Aspirin", "PRICE" : "$88.42" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "540" } }
+{ "id" : "540", "ITMREF" : "62756457", "DESC" : "CARBIDOPA AND LEVODOPA", "PRICE" : "$249.95" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "541" } }
+{ "id" : "541", "ITMREF" : "664672004", "DESC" : "Benzocaine", "PRICE" : "$711.55" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "542" } }
+{ "id" : "542", "ITMREF" : "489512023", "DESC" : "Bambusa Viscum Stannum", "PRICE" : "$476.28" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "543" } }
+{ "id" : "543", "ITMREF" : "411673330", "DESC" : "bismuth subsalicylate", "PRICE" : "$936.55" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "544" } }
+{ "id" : "544", "ITMREF" : "52343047", "DESC" : "Cefuroxime Axetil", "PRICE" : "$764.93" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "545" } }
+{ "id" : "545", "ITMREF" : "01439666", "DESC" : "Fluconazole", "PRICE" : "$497.46" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "546" } }
+{ "id" : "546", "ITMREF" : "44781120", "DESC" : "DIMETHICONE", "PRICE" : "$916.39" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "547" } }
+{ "id" : "547", "ITMREF" : "67777246", "DESC" : "Benzocaine", "PRICE" : "$706.54" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "548" } }
+{ "id" : "548", "ITMREF" : "16714226", "DESC" : "Losartan Potassium and Hydrochlorothiazide", "PRICE" : "$627.95" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "549" } }
+{ "id" : "549", "ITMREF" : "33261100", "DESC" : "Sulindac", "PRICE" : "$46.03" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "550" } }
+{ "id" : "550", "ITMREF" : "04091165", "DESC" : "BUPIVACAINE HYDROCHLORIDE", "PRICE" : "$383.83" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "551" } }
+{ "id" : "551", "ITMREF" : "16590016", "DESC" : "AMOXICILLIN", "PRICE" : "$672.67" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "552" } }
+{ "id" : "552", "ITMREF" : "03630318", "DESC" : "Eucalyptol, menthol, Methyl salicylate, thymol", "PRICE" : "$48.73" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "553" } }
+{ "id" : "553", "ITMREF" : "118220050", "DESC" : "Diphenhydramine Citrate, Ibuprofen", "PRICE" : "$248.60" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "554" } }
+{ "id" : "554", "ITMREF" : "23155194", "DESC" : "Nifedipine", "PRICE" : "$779.55" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "555" } }
+{ "id" : "555", "ITMREF" : "46994851", "DESC" : "Menthol", "PRICE" : "$871.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "556" } }
+{ "id" : "556", "ITMREF" : "63354162", "DESC" : "AVOBENZONE, OCTOCRYLENE, OXYBENZONE", "PRICE" : "$550.65" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "557" } }
+{ "id" : "557", "ITMREF" : "100960311", "DESC" : "Homosalate, Octinoxate, Oxybenzone, Avobenzone", "PRICE" : "$42.86" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "558" } }
+{ "id" : "558", "ITMREF" : "687889817", "DESC" : "Terazosin hydrochloride", "PRICE" : "$418.43" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "559" } }
+{ "id" : "559", "ITMREF" : "37808550", "DESC" : "Cetirizine Hydrochloride", "PRICE" : "$381.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "560" } }
+{ "id" : "560", "ITMREF" : "03780330", "DESC" : "perphenazine and amitriptyline hydrochloride", "PRICE" : "$127.14" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "561" } }
+{ "id" : "561", "ITMREF" : "551542625", "DESC" : "Nitroglycerin", "PRICE" : "$692.87" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "562" } }
+{ "id" : "562", "ITMREF" : "52959034", "DESC" : "TAMSULOSIN HYDROCHLORIDE", "PRICE" : "$367.59" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "563" } }
+{ "id" : "563", "ITMREF" : "66184531", "DESC" : "Titanium Dioxide and Octinoxate", "PRICE" : "$537.24" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "564" } }
+{ "id" : "564", "ITMREF" : "63868310", "DESC" : "magnesium hydroxide", "PRICE" : "$623.39" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "565" } }
+{ "id" : "565", "ITMREF" : "59262352", "DESC" : "Atropa Belladonna and Euphrasia Stricta and Mercuric Chloride", "PRICE" : "$908.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "566" } }
+{ "id" : "566", "ITMREF" : "35356766", "DESC" : "HYDROCODONE BITARTRATE, ACETAMINOPHEN", "PRICE" : "$146.43" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "567" } }
+{ "id" : "567", "ITMREF" : "59970171", "DESC" : "ALCOHOL", "PRICE" : "$234.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "568" } }
+{ "id" : "568", "ITMREF" : "66129110", "DESC" : "HYDROQUINONE", "PRICE" : "$654.38" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "569" } }
+{ "id" : "569", "ITMREF" : "369873060", "DESC" : "West Sycamore", "PRICE" : "$441.38" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "570" } }
+{ "id" : "570", "ITMREF" : "02282550", "DESC" : "Diclofenac Sodium", "PRICE" : "$612.41" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "571" } }
+{ "id" : "571", "ITMREF" : "551545037", "DESC" : "sitagliptin", "PRICE" : "$536.81" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "572" } }
+{ "id" : "572", "ITMREF" : "47335910", "DESC" : "Carbidopa, Levodopa and Entacapone", "PRICE" : "$641.55" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "573" } }
+{ "id" : "573", "ITMREF" : "626704795", "DESC" : "Alcohol", "PRICE" : "$1044.41" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "574" } }
+{ "id" : "574", "ITMREF" : "56062712", "DESC" : "AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE OXYBENZONE", "PRICE" : "$974.00" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "575" } }
+{ "id" : "575", "ITMREF" : "69072010", "DESC" : "Titanium Dioxide, Zinc Oxide, OCTINOXATE", "PRICE" : "$267.58" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "576" } }
+{ "id" : "576", "ITMREF" : "00854356", "DESC" : "peginterferon alfa2b", "PRICE" : "$807.10" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "577" } }
+{ "id" : "577", "ITMREF" : "10893452", "DESC" : "Hypericum 6X HPUS, Capsicum Annuum 3X HPUS, Arnica Montana 1X HPUS", "PRICE" : "$552.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "578" } }
+{ "id" : "578", "ITMREF" : "515314329", "DESC" : "octinoxate, octisalate, zinc oxide, oxybenzone,", "PRICE" : "$782.45" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "579" } }
+{ "id" : "579", "ITMREF" : "67457573", "DESC" : "rocuronium bromide", "PRICE" : "$437.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "580" } }
+{ "id" : "580", "ITMREF" : "545695638", "DESC" : "Amoxicillin and Clavulanate Potassium", "PRICE" : "$55.48" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "581" } }
+{ "id" : "581", "ITMREF" : "501145324", "DESC" : "SULFUR, THUJA OCCIDENTALIS LEAFY TWIG, VACCINIA VIRUS STRAIN NEW YORK CITY BOARD, GONORRHEAL URETHRAL SECRETION HUMAN,SODIUM CHLORIDE, NERIUM OLEANDER LEAF,CICUTA VIROSA ROOT,", "PRICE" : "$78.90" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "582" } }
+{ "id" : "582", "ITMREF" : "36800124", "DESC" : "BENZALKONIUM CHLORIDE", "PRICE" : "$1051.45" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "583" } }
+{ "id" : "583", "ITMREF" : "05271346", "DESC" : "Levothyroxine Sodium", "PRICE" : "$595.26" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "584" } }
+{ "id" : "584", "ITMREF" : "538080216", "DESC" : "Calcium Acetate", "PRICE" : "$351.60" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "585" } }
+{ "id" : "585", "ITMREF" : "63667242", "DESC" : "MENTHOL", "PRICE" : "$436.23" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "586" } }
+{ "id" : "586", "ITMREF" : "16714652", "DESC" : "Ciprofloxacin Hydrochloride", "PRICE" : "$36.19" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "587" } }
+{ "id" : "587", "ITMREF" : "51991457", "DESC" : "Polyethylene Glycol 3350", "PRICE" : "$709.10" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "588" } }
+{ "id" : "588", "ITMREF" : "51346123", "DESC" : "DIMETHICONE, ALLANTOIN", "PRICE" : "$62.72" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "589" } }
+{ "id" : "589", "ITMREF" : "13734032", "DESC" : "Octinoxate and Titanium Dioxide", "PRICE" : "$163.28" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "590" } }
+{ "id" : "590", "ITMREF" : "31190400", "DESC" : "ETHYL ALCOHOL", "PRICE" : "$558.45" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "591" } }
+{ "id" : "591", "ITMREF" : "55814101", "DESC" : "ALCOHOL", "PRICE" : "$910.97" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "592" } }
+{ "id" : "592", "ITMREF" : "21695523", "DESC" : "Indomethacin", "PRICE" : "$847.86" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "593" } }
+{ "id" : "593", "ITMREF" : "07812810", "DESC" : "Oxazepam", "PRICE" : "$683.41" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "594" } }
+{ "id" : "594", "ITMREF" : "489517047", "DESC" : "Mesenchyme Quercus", "PRICE" : "$133.22" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "595" } }
+{ "id" : "595", "ITMREF" : "02680628", "DESC" : "HORSE EPITHELIA", "PRICE" : "$462.52" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "596" } }
+{ "id" : "596", "ITMREF" : "63481522", "DESC" : "Oxymorphone Hydrochloride", "PRICE" : "$596.22" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "597" } }
+{ "id" : "597", "ITMREF" : "10812094", "DESC" : "Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone", "PRICE" : "$548.68" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "598" } }
+{ "id" : "598", "ITMREF" : "581181064", "DESC" : "Bupropion Hydrochloride", "PRICE" : "$966.25" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "599" } }
+{ "id" : "599", "ITMREF" : "53489150", "DESC" : "Thioridazine Hydrochloride", "PRICE" : "$412.77" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "600" } }
+{ "id" : "600", "ITMREF" : "05740107", "DESC" : "clotrimazole", "PRICE" : "$703.36" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "601" } }
+{ "id" : "601", "ITMREF" : "538080836", "DESC" : "fluoxetine hydrochloride", "PRICE" : "$50.00" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "602" } }
+{ "id" : "602", "ITMREF" : "00930733", "DESC" : "Metoprolol Tartrate", "PRICE" : "$16.74" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "603" } }
+{ "id" : "603", "ITMREF" : "51389202", "DESC" : "AVOBENZONE, OCTINOXATE, OCTISALATE", "PRICE" : "$823.49" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "604" } }
+{ "id" : "604", "ITMREF" : "07813416", "DESC" : "Voriconazole", "PRICE" : "$1013.44" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "605" } }
+{ "id" : "605", "ITMREF" : "63730206", "DESC" : "Homosalate, Octinoxate, Methoxycinnamate, Octisalate, Titanium Dioxide", "PRICE" : "$331.34" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "606" } }
+{ "id" : "606", "ITMREF" : "54458890", "DESC" : "Montelukast", "PRICE" : "$379.63" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "607" } }
+{ "id" : "607", "ITMREF" : "51079944", "DESC" : "bupropion hydrochloride", "PRICE" : "$819.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "608" } }
+{ "id" : "608", "ITMREF" : "369871943", "DESC" : "Cladosporium cladosporioides", "PRICE" : "$379.98" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "609" } }
+{ "id" : "609", "ITMREF" : "35192009", "DESC" : "Octinoxate Titanium Dioxide", "PRICE" : "$1037.80" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "610" } }
+{ "id" : "610", "ITMREF" : "51645705", "DESC" : "ACETAMINOPHEN", "PRICE" : "$344.94" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "611" } }
+{ "id" : "611", "ITMREF" : "51660492", "DESC" : "pseudoephedrine hydrochloride", "PRICE" : "$856.25" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "612" } }
+{ "id" : "612", "ITMREF" : "69020204", "DESC" : "Hydrocortisone", "PRICE" : "$974.78" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "613" } }
+{ "id" : "613", "ITMREF" : "24658220", "DESC" : "Doxycycline hyclate", "PRICE" : "$460.68" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "614" } }
+{ "id" : "614", "ITMREF" : "538080104", "DESC" : "lisinopril", "PRICE" : "$514.25" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "615" } }
+{ "id" : "615", "ITMREF" : "41250387", "DESC" : "Avobenzone, Octisalate, Octocrylene and Oxybenzone", "PRICE" : "$195.87" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "616" } }
+{ "id" : "616", "ITMREF" : "49884836", "DESC" : "Morphine Sulfate", "PRICE" : "$612.38" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "617" } }
+{ "id" : "617", "ITMREF" : "692443001", "DESC" : "GLYCERIN", "PRICE" : "$96.92" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "618" } }
+{ "id" : "618", "ITMREF" : "63824851", "DESC" : "Hydrocortisone", "PRICE" : "$162.16" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "619" } }
+{ "id" : "619", "ITMREF" : "17089076", "DESC" : "ALDESLEUKIN  BINETRAKIN  CANAKINUMAB  CENTELLA ASIATICA  CRANBERRY  HUMAN INTERLEUKIN6 (NONGLYCOSYLATED)  INTERFERON GAMMA1B  LENOGRASTIM  PINEAPPLE  SUS SCROFA BONE MARROW  SUS SCROFA SMA", "PRICE" : "$182.43" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "620" } }
+{ "id" : "620", "ITMREF" : "10812440", "DESC" : "Titanium Dioxide", "PRICE" : "$347.14" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "621" } }
+{ "id" : "621", "ITMREF" : "55910655", "DESC" : "Acetaminophen and Diphenhydramine HCl", "PRICE" : "$602.34" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "622" } }
+{ "id" : "622", "ITMREF" : "33261996", "DESC" : "Losartan Potassium", "PRICE" : "$396.68" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "623" } }
+{ "id" : "623", "ITMREF" : "16590339", "DESC" : "ALBUTEROL SULFATE", "PRICE" : "$627.40" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "624" } }
+{ "id" : "624", "ITMREF" : "492880262", "DESC" : "Hickory Pollen Mixture", "PRICE" : "$126.55" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "625" } }
+{ "id" : "625", "ITMREF" : "369872554", "DESC" : "White Birch", "PRICE" : "$6.60" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "626" } }
+{ "id" : "626", "ITMREF" : "03380673", "DESC" : "Potassium Chloride, Dextrose Monohydrate and Sodium Chloride", "PRICE" : "$272.86" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "627" } }
+{ "id" : "627", "ITMREF" : "52125925", "DESC" : "Ziprasidone Hydrochloride", "PRICE" : "$529.92" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "628" } }
+{ "id" : "628", "ITMREF" : "54482144", "DESC" : "levocarnitine", "PRICE" : "$437.07" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "629" } }
+{ "id" : "629", "ITMREF" : "548686277", "DESC" : "Levofloxacin", "PRICE" : "$211.96" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "630" } }
+{ "id" : "630", "ITMREF" : "36800235", "DESC" : "ETHYL ALCOHOL", "PRICE" : "$34.72" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "631" } }
+{ "id" : "631", "ITMREF" : "68345652", "DESC" : "ALCOHOL", "PRICE" : "$376.39" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "632" } }
+{ "id" : "632", "ITMREF" : "02283229", "DESC" : "Oxymorphone hydrochloride", "PRICE" : "$450.81" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "633" } }
+{ "id" : "633", "ITMREF" : "04069934", "DESC" : "IMIPRAMINE PAMOATE", "PRICE" : "$461.59" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "634" } }
+{ "id" : "634", "ITMREF" : "534990163", "DESC" : "Pelargonium sidoides", "PRICE" : "$939.22" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "635" } }
+{ "id" : "635", "ITMREF" : "438460030", "DESC" : "Phytolacca Decandra, Gnaphalium Polycephalum, Colocynthis, Gelsemium Sempervirens", "PRICE" : "$35.26" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "636" } }
+{ "id" : "636", "ITMREF" : "68084059", "DESC" : "Zafirlukast", "PRICE" : "$272.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "637" } }
+{ "id" : "637", "ITMREF" : "54365400", "DESC" : "chlorhexidine gluconate and isopropyl alcohol", "PRICE" : "$575.76" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "638" } }
+{ "id" : "638", "ITMREF" : "11410309", "DESC" : "PYRITHIONE ZINC", "PRICE" : "$329.34" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "639" } }
+{ "id" : "639", "ITMREF" : "489511102", "DESC" : "Argentum Viscum", "PRICE" : "$286.26" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "640" } }
+{ "id" : "640", "ITMREF" : "582324035", "DESC" : "Petrolatum", "PRICE" : "$945.75" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "641" } }
+{ "id" : "641", "ITMREF" : "60949090", "DESC" : "ALLANTOIN", "PRICE" : "$334.77" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "642" } }
+{ "id" : "642", "ITMREF" : "03780086", "DESC" : "captopril and hydrochlorothiazide", "PRICE" : "$101.08" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "643" } }
+{ "id" : "643", "ITMREF" : "50458863", "DESC" : "tapentadol hydrochloride", "PRICE" : "$424.31" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "644" } }
+{ "id" : "644", "ITMREF" : "09046357", "DESC" : "Risperidone", "PRICE" : "$599.68" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "645" } }
+{ "id" : "645", "ITMREF" : "49035157", "DESC" : "Aspirin", "PRICE" : "$894.65" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "646" } }
+{ "id" : "646", "ITMREF" : "49884580", "DESC" : "rizatriptan benzoate", "PRICE" : "$912.68" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "647" } }
+{ "id" : "647", "ITMREF" : "51808211", "DESC" : "Dimercaptosuccinic Acid", "PRICE" : "$1050.31" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "648" } }
+{ "id" : "648", "ITMREF" : "16038001", "DESC" : "Benzalkonium Chloride", "PRICE" : "$137.95" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "649" } }
+{ "id" : "649", "ITMREF" : "06151343", "DESC" : "phenytoin sodium", "PRICE" : "$39.30" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "650" } }
+{ "id" : "650", "ITMREF" : "369873318", "DESC" : "Spiny Pigweed", "PRICE" : "$111.45" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "651" } }
+{ "id" : "651", "ITMREF" : "63187131", "DESC" : "Carvedilol", "PRICE" : "$239.15" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "652" } }
+{ "id" : "652", "ITMREF" : "51346212", "DESC" : "ZINC OXIDE, TITANIUM DIOXIDE", "PRICE" : "$12.70" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "653" } }
+{ "id" : "653", "ITMREF" : "05910411", "DESC" : "Doxycycline", "PRICE" : "$1015.25" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "654" } }
+{ "id" : "654", "ITMREF" : "01151328", "DESC" : "Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate and Amphetamine Sulfate", "PRICE" : "$355.88" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "655" } }
+{ "id" : "655", "ITMREF" : "55289912", "DESC" : "Hydroxyzine", "PRICE" : "$98.62" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "656" } }
+{ "id" : "656", "ITMREF" : "433051080", "DESC" : "Mepivacaine Hydrochloride", "PRICE" : "$237.54" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "657" } }
+{ "id" : "657", "ITMREF" : "536451021", "DESC" : "Aurum Metallicum", "PRICE" : "$854.09" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "658" } }
+{ "id" : "658", "ITMREF" : "41250078", "DESC" : "MENTHOL", "PRICE" : "$646.16" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "659" } }
+{ "id" : "659", "ITMREF" : "504360098", "DESC" : "meloxicam", "PRICE" : "$44.21" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "660" } }
+{ "id" : "660", "ITMREF" : "05970081", "DESC" : "IPRATROPIUM BROMIDE", "PRICE" : "$549.62" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "661" } }
+{ "id" : "661", "ITMREF" : "687452030", "DESC" : "OCTINOXATE and TITANIUM DIOXIDE", "PRICE" : "$494.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "662" } }
+{ "id" : "662", "ITMREF" : "06157757", "DESC" : "Isosorbide Mononitrate", "PRICE" : "$132.03" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "663" } }
+{ "id" : "663", "ITMREF" : "01130851", "DESC" : "Aluminum hydroxide, Magnesium hydroxide, Simethicone", "PRICE" : "$285.78" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "664" } }
+{ "id" : "664", "ITMREF" : "37000459", "DESC" : "OMEPRAZOLE MAGNESIUM", "PRICE" : "$608.54" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "665" } }
+{ "id" : "665", "ITMREF" : "68828096", "DESC" : "Salicylic Acid", "PRICE" : "$77.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "666" } }
+{ "id" : "666", "ITMREF" : "05173065", "DESC" : "Morrhuate Sodium", "PRICE" : "$434.99" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "667" } }
+{ "id" : "667", "ITMREF" : "55312630", "DESC" : "Dimenhydrinate", "PRICE" : "$561.41" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "668" } }
+{ "id" : "668", "ITMREF" : "636291675", "DESC" : "Allopurinol", "PRICE" : "$590.59" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "669" } }
+{ "id" : "669", "ITMREF" : "68712005", "DESC" : "Urea", "PRICE" : "$594.36" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "670" } }
+{ "id" : "670", "ITMREF" : "636293994", "DESC" : "Topiramate", "PRICE" : "$750.14" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "671" } }
+{ "id" : "671", "ITMREF" : "37808001", "DESC" : "Dextrose (glucose), Levulose (fructose), Phosphoric Acid", "PRICE" : "$258.73" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "672" } }
+{ "id" : "672", "ITMREF" : "04093213", "DESC" : "DIAZEPAM", "PRICE" : "$750.93" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "673" } }
+{ "id" : "673", "ITMREF" : "536451320", "DESC" : "Chamomilla", "PRICE" : "$444.15" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "674" } }
+{ "id" : "674", "ITMREF" : "03781053", "DESC" : "Enalapril Maleate", "PRICE" : "$614.76" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "675" } }
+{ "id" : "675", "ITMREF" : "00312247", "DESC" : "diphenhydramine HCl, phenylephrine HCl", "PRICE" : "$450.53" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "676" } }
+{ "id" : "676", "ITMREF" : "00749374", "DESC" : "Adalimumab", "PRICE" : "$728.05" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "677" } }
+{ "id" : "677", "ITMREF" : "49349986", "DESC" : "Lovastatin", "PRICE" : "$632.12" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "678" } }
+{ "id" : "678", "ITMREF" : "02241866", "DESC" : "Psyllium Hydrophilic Mucilloid", "PRICE" : "$150.76" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "679" } }
+{ "id" : "679", "ITMREF" : "50742106", "DESC" : "Furosemide", "PRICE" : "$885.45" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "680" } }
+{ "id" : "680", "ITMREF" : "58133049", "DESC" : "Menthol", "PRICE" : "$597.17" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "681" } }
+{ "id" : "681", "ITMREF" : "68084555", "DESC" : "omeprazole", "PRICE" : "$190.00" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "682" } }
+{ "id" : "682", "ITMREF" : "76088100", "DESC" : "ALUMINUM CHLOROHYDRATE", "PRICE" : "$288.28" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "683" } }
+{ "id" : "683", "ITMREF" : "551549616", "DESC" : "Esomeprazole magnesium", "PRICE" : "$817.36" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "684" } }
+{ "id" : "684", "ITMREF" : "16714221", "DESC" : "Granisetron Hydrochloride", "PRICE" : "$732.83" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "685" } }
+{ "id" : "685", "ITMREF" : "55111531", "DESC" : "divalproex sodium", "PRICE" : "$527.23" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "686" } }
+{ "id" : "686", "ITMREF" : "636294929", "DESC" : "Hydroxyzine Hydrochloride", "PRICE" : "$349.53" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "687" } }
+{ "id" : "687", "ITMREF" : "68428112", "DESC" : "STRYCHNOS NUXVOMICA SEED", "PRICE" : "$283.13" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "688" } }
+{ "id" : "688", "ITMREF" : "52125709", "DESC" : "Bicalutamide", "PRICE" : "$959.80" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "689" } }
+{ "id" : "689", "ITMREF" : "545691218", "DESC" : "Gentamicin Sulfate", "PRICE" : "$640.17" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "690" } }
+{ "id" : "690", "ITMREF" : "69106130", "DESC" : "Dimethicone", "PRICE" : "$621.33" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "691" } }
+{ "id" : "691", "ITMREF" : "69153030", "DESC" : "Glycerin", "PRICE" : "$135.49" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "692" } }
+{ "id" : "692", "ITMREF" : "68180115", "DESC" : "Levetiracetam", "PRICE" : "$621.37" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "693" } }
+{ "id" : "693", "ITMREF" : "01696438", "DESC" : "insulin detemir", "PRICE" : "$1021.50" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "694" } }
+{ "id" : "694", "ITMREF" : "49967993", "DESC" : "Avobenzone, Homosalate, Octisalate, Octocrylene and Oxybenzone", "PRICE" : "$185.05" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "695" } }
+{ "id" : "695", "ITMREF" : "41520111", "DESC" : "Fluoride", "PRICE" : "$898.57" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "696" } }
+{ "id" : "696", "ITMREF" : "650445004", "DESC" : "Molds  Alternaria/Hormodendrum Mix", "PRICE" : "$770.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "697" } }
+{ "id" : "697", "ITMREF" : "43063421", "DESC" : "Levothyroxine Sodium", "PRICE" : "$255.60" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "698" } }
+{ "id" : "698", "ITMREF" : "687889933", "DESC" : "ENALAPRIL MALEATE", "PRICE" : "$408.14" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "699" } }
+{ "id" : "699", "ITMREF" : "67172574", "DESC" : "Polyvinyl Alcohol and Povidone", "PRICE" : "$454.58" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "700" } }
+{ "id" : "700", "ITMREF" : "66302300", "DESC" : "treprostinil", "PRICE" : "$561.73" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "701" } }
+{ "id" : "701", "ITMREF" : "54575349", "DESC" : "string bean", "PRICE" : "$674.55" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "702" } }
+{ "id" : "702", "ITMREF" : "53943114", "DESC" : "BENZALKONIUM CHLORIDE", "PRICE" : "$426.10" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "703" } }
+{ "id" : "703", "ITMREF" : "16590016", "DESC" : "AMOXICILLIN", "PRICE" : "$746.12" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "704" } }
+{ "id" : "704", "ITMREF" : "575200423", "DESC" : "Belladonna, Bryonia, Cyclamen europaeum, Gelsemium sempervirens, Sanguianaria canadensis, Spigelia anthelmia", "PRICE" : "$555.92" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "705" } }
+{ "id" : "705", "ITMREF" : "49999627", "DESC" : "ESCITALOPRAM OXALATE", "PRICE" : "$579.75" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "706" } }
+{ "id" : "706", "ITMREF" : "37000024", "DESC" : "Psyllium Husk", "PRICE" : "$560.72" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "707" } }
+{ "id" : "707", "ITMREF" : "489518238", "DESC" : "Pancreas Meteoric Iron Special Order", "PRICE" : "$630.99" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "708" } }
+{ "id" : "708", "ITMREF" : "64616082", "DESC" : "Immune System Booster", "PRICE" : "$707.99" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "709" } }
+{ "id" : "709", "ITMREF" : "68682065", "DESC" : "Methoxsalen", "PRICE" : "$866.92" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "710" } }
+{ "id" : "710", "ITMREF" : "649421136", "DESC" : "Aluminum Zirconium Tetrachlorohydrex GLY", "PRICE" : "$857.84" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "711" } }
+{ "id" : "711", "ITMREF" : "43269854", "DESC" : "Triclosan", "PRICE" : "$455.40" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "712" } }
+{ "id" : "712", "ITMREF" : "45802060", "DESC" : "Bacitracin", "PRICE" : "$738.48" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "713" } }
+{ "id" : "713", "ITMREF" : "50438300", "DESC" : "PYRITHIONE ZINC", "PRICE" : "$175.00" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "714" } }
+{ "id" : "714", "ITMREF" : "761191440", "DESC" : "TITANIUM DIOXIDE, ZINC OXIDE", "PRICE" : "$714.93" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "715" } }
+{ "id" : "715", "ITMREF" : "52389621", "DESC" : "Lactic acid, wild hops", "PRICE" : "$381.34" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "716" } }
+{ "id" : "716", "ITMREF" : "636293378", "DESC" : "Quetiapine fumarate", "PRICE" : "$275.68" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "717" } }
+{ "id" : "717", "ITMREF" : "52125853", "DESC" : "amlodipine besylate and valsartan", "PRICE" : "$308.82" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "718" } }
+{ "id" : "718", "ITMREF" : "619581702", "DESC" : "idelalisib", "PRICE" : "$609.63" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "719" } }
+{ "id" : "719", "ITMREF" : "00625356", "DESC" : "TERCONAZOLE", "PRICE" : "$642.05" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "720" } }
+{ "id" : "720", "ITMREF" : "01350558", "DESC" : "sodium fluoride", "PRICE" : "$284.40" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "721" } }
+{ "id" : "721", "ITMREF" : "00876674", "DESC" : "didanosine", "PRICE" : "$921.55" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "722" } }
+{ "id" : "722", "ITMREF" : "52544290", "DESC" : "Norethindrone Acetate and Ethinyl Estradiol", "PRICE" : "$787.69" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "723" } }
+{ "id" : "723", "ITMREF" : "10578014", "DESC" : "China sulphuricum, Thiosinaminum, Petroselinum, Salicylic acid, Kali phosphoricum", "PRICE" : "$113.32" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "724" } }
+{ "id" : "724", "ITMREF" : "07812695", "DESC" : "Temozolomide", "PRICE" : "$285.72" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "725" } }
+{ "id" : "725", "ITMREF" : "13734019", "DESC" : "Octinoxate and Titanium dioxide", "PRICE" : "$846.33" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "726" } }
+{ "id" : "726", "ITMREF" : "548686275", "DESC" : "levonorgestrel/ethinyl estradiol and ethinyl estradiol", "PRICE" : "$219.25" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "727" } }
+{ "id" : "727", "ITMREF" : "42291717", "DESC" : "Ropinirole Hydrochloride", "PRICE" : "$198.62" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "728" } }
+{ "id" : "728", "ITMREF" : "551545561", "DESC" : "Clonidine Hydrochloride", "PRICE" : "$99.33" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "729" } }
+{ "id" : "729", "ITMREF" : "65841633", "DESC" : "Hydroxychloroquine sulfate", "PRICE" : "$1028.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "730" } }
+{ "id" : "730", "ITMREF" : "489518234", "DESC" : "Periodontium Quartz Special Order", "PRICE" : "$745.81" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "731" } }
+{ "id" : "731", "ITMREF" : "557144462", "DESC" : "Aconitum nap., Arg.nit., Arsenicum alb., Belladonna, Bryonia, Cinchona, Gelsemium, Hypericum, Ignatia, Kalmia, Lachesis, Lycopodium, Mag. phos., Mezereum, Phosphorus, Pulsatilla, Rhus toxicodendron, Stramonium, Strychninum, Verbascum, Chamomilla", "PRICE" : "$210.83" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "732" } }
+{ "id" : "732", "ITMREF" : "44338001", "DESC" : "Fludeoxyglucose F18", "PRICE" : "$890.15" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "733" } }
+{ "id" : "733", "ITMREF" : "67046030", "DESC" : "Atenolol", "PRICE" : "$76.56" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "734" } }
+{ "id" : "734", "ITMREF" : "548685241", "DESC" : "quinapril", "PRICE" : "$892.83" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "735" } }
+{ "id" : "735", "ITMREF" : "00132649", "DESC" : "somatropin", "PRICE" : "$854.56" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "736" } }
+{ "id" : "736", "ITMREF" : "43074112", "DESC" : "TETRACYCLINE HYDROCHLORIDE", "PRICE" : "$575.03" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "737" } }
+{ "id" : "737", "ITMREF" : "35356501", "DESC" : "Carisoprodol", "PRICE" : "$584.76" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "738" } }
+{ "id" : "738", "ITMREF" : "67046114", "DESC" : "Citalopram Hydrobromide", "PRICE" : "$635.56" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "739" } }
+{ "id" : "739", "ITMREF" : "50988170", "DESC" : "triclosan", "PRICE" : "$748.57" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "740" } }
+{ "id" : "740", "ITMREF" : "37000710", "DESC" : "Avobenzone, Homosalate, Octisalate and Octocrylene", "PRICE" : "$396.62" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "741" } }
+{ "id" : "741", "ITMREF" : "60683083", "DESC" : "Ibuprofen", "PRICE" : "$992.66" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "742" } }
+{ "id" : "742", "ITMREF" : "178560759", "DESC" : "Prednisolone Sodium Phosphate", "PRICE" : "$426.19" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "743" } }
+{ "id" : "743", "ITMREF" : "42254218", "DESC" : "Nadolol", "PRICE" : "$964.00" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "744" } }
+{ "id" : "744", "ITMREF" : "650441802", "DESC" : "Linden (Basswood) Tilia americana", "PRICE" : "$45.39" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "745" } }
+{ "id" : "745", "ITMREF" : "68196532", "DESC" : "Guaifenesin", "PRICE" : "$13.55" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "746" } }
+{ "id" : "746", "ITMREF" : "10370222", "DESC" : "Tramadol Hydrochloride ExtendedRelease Tablets", "PRICE" : "$891.23" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "747" } }
+{ "id" : "747", "ITMREF" : "52183389", "DESC" : "Diphenhydramine Hydrochloride and Phenylephrine Hydrochloride", "PRICE" : "$1014.67" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "748" } }
+{ "id" : "748", "ITMREF" : "620110244", "DESC" : "DOCUSATE SODIUM", "PRICE" : "$639.92" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "749" } }
+{ "id" : "749", "ITMREF" : "68752005", "DESC" : "Cetirizine hydrochloride", "PRICE" : "$366.35" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "750" } }
+{ "id" : "750", "ITMREF" : "17089075", "DESC" : ".ALPHA.KETOGLUTARIC ACID  ACONITIC ACID, CIS  ADENOSINE TRIPHOSPHATE  ALPHA LIPOIC ACID  ASCORBIC ACID  ASIAN GINSENG  BARIUM CATION  BEET  CEROUS OXALATE NONAHYDRATE  COENZYME A  CYSTEINE", "PRICE" : "$368.20" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "751" } }
+{ "id" : "751", "ITMREF" : "04040360", "DESC" : "neomycin, polymixin, bacitracin", "PRICE" : "$707.35" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "752" } }
+{ "id" : "752", "ITMREF" : "369872242", "DESC" : "Tobacco Leaf", "PRICE" : "$673.99" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "753" } }
+{ "id" : "753", "ITMREF" : "118220440", "DESC" : "Ethyl alcohol", "PRICE" : "$862.41" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "754" } }
+{ "id" : "754", "ITMREF" : "00690145", "DESC" : "axitinib", "PRICE" : "$835.26" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "755" } }
+{ "id" : "755", "ITMREF" : "49349436", "DESC" : "Simvastatin", "PRICE" : "$1046.40" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "756" } }
+{ "id" : "756", "ITMREF" : "63323024", "DESC" : "MANNITOL", "PRICE" : "$706.01" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "757" } }
+{ "id" : "757", "ITMREF" : "68645282", "DESC" : "Citalopram hydrobromide", "PRICE" : "$836.51" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "758" } }
+{ "id" : "758", "ITMREF" : "35356850", "DESC" : "Gabapentin", "PRICE" : "$918.49" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "759" } }
+{ "id" : "759", "ITMREF" : "42361010", "DESC" : "Titanium Dioxide, Octinoxate", "PRICE" : "$419.25" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "760" } }
+{ "id" : "760", "ITMREF" : "17271205", "DESC" : "PovidoneIodine", "PRICE" : "$695.83" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "761" } }
+{ "id" : "761", "ITMREF" : "51079557", "DESC" : "clopidogrel", "PRICE" : "$425.73" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "762" } }
+{ "id" : "762", "ITMREF" : "02686649", "DESC" : "Rough Pigweed", "PRICE" : "$628.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "763" } }
+{ "id" : "763", "ITMREF" : "49349220", "DESC" : "Gabapentin", "PRICE" : "$339.65" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "764" } }
+{ "id" : "764", "ITMREF" : "548682679", "DESC" : "Triamterene and hydrochlorothiazide", "PRICE" : "$649.94" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "765" } }
+{ "id" : "765", "ITMREF" : "41163546", "DESC" : "Famotidine, Calcium Carbonate, Magnesium Hydroxide", "PRICE" : "$89.22" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "766" } }
+{ "id" : "766", "ITMREF" : "65862535", "DESC" : "Amoxicillin and Clavulanate Potassium", "PRICE" : "$409.66" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "767" } }
+{ "id" : "767", "ITMREF" : "04636000", "DESC" : "Doxycycline Hyclate", "PRICE" : "$789.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "768" } }
+{ "id" : "768", "ITMREF" : "16571413", "DESC" : "ciprofloxacin", "PRICE" : "$25.46" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "769" } }
+{ "id" : "769", "ITMREF" : "05170785", "DESC" : "Benztropine Mesylate", "PRICE" : "$838.87" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "770" } }
+{ "id" : "770", "ITMREF" : "595355801", "DESC" : "Glycerin", "PRICE" : "$33.17" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "771" } }
+{ "id" : "771", "ITMREF" : "548685887", "DESC" : "Ondansetron", "PRICE" : "$836.38" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "772" } }
+{ "id" : "772", "ITMREF" : "369873308", "DESC" : "Palmers Amaranth", "PRICE" : "$335.92" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "773" } }
+{ "id" : "773", "ITMREF" : "17772122", "DESC" : "OXCARBAZEPINE", "PRICE" : "$830.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "774" } }
+{ "id" : "774", "ITMREF" : "57344090", "DESC" : "DIPHENHYDRAMINE HYDROCHLORIDE", "PRICE" : "$9.80" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "775" } }
+{ "id" : "775", "ITMREF" : "49738080", "DESC" : "ETHYL ALCOHOL", "PRICE" : "$150.78" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "776" } }
+{ "id" : "776", "ITMREF" : "595351701", "DESC" : "GLYCERIN", "PRICE" : "$706.60" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "777" } }
+{ "id" : "777", "ITMREF" : "05913671", "DESC" : "Nabumetone", "PRICE" : "$779.75" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "778" } }
+{ "id" : "778", "ITMREF" : "43269716", "DESC" : "Triclosan", "PRICE" : "$599.52" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "779" } }
+{ "id" : "779", "ITMREF" : "63187089", "DESC" : "fluoxetine", "PRICE" : "$882.87" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "780" } }
+{ "id" : "780", "ITMREF" : "339928810", "DESC" : "ALCOHOL", "PRICE" : "$231.79" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "781" } }
+{ "id" : "781", "ITMREF" : "24385316", "DESC" : "acetaminophen,dextromethorphan HBr, doxylamine succinate", "PRICE" : "$794.82" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "782" } }
+{ "id" : "782", "ITMREF" : "00780408", "DESC" : "carbidopa, levodopa, and entacapone", "PRICE" : "$1019.34" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "783" } }
+{ "id" : "783", "ITMREF" : "37808009", "DESC" : "petrolatum", "PRICE" : "$262.13" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "784" } }
+{ "id" : "784", "ITMREF" : "582329913", "DESC" : "Octinoxate, Octisalate, and Titanium Dioxide", "PRICE" : "$754.13" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "785" } }
+{ "id" : "785", "ITMREF" : "53329140", "DESC" : "Dimethicone", "PRICE" : "$819.26" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "786" } }
+{ "id" : "786", "ITMREF" : "50302400", "DESC" : "PYRITHIONE ZINC", "PRICE" : "$1042.62" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "787" } }
+{ "id" : "787", "ITMREF" : "04093307", "DESC" : "ACETYLCYSTEINE", "PRICE" : "$61.20" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "788" } }
+{ "id" : "788", "ITMREF" : "687889526", "DESC" : "Lamotrigine", "PRICE" : "$421.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "789" } }
+{ "id" : "789", "ITMREF" : "00490116", "DESC" : "ANIDULAFUNGIN", "PRICE" : "$663.24" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "790" } }
+{ "id" : "790", "ITMREF" : "63739684", "DESC" : "Ibuprofen", "PRICE" : "$1036.27" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "791" } }
+{ "id" : "791", "ITMREF" : "43063382", "DESC" : "Clorazepate dipotassium", "PRICE" : "$178.14" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "792" } }
+{ "id" : "792", "ITMREF" : "43419865", "DESC" : "TITANIUM DIOXIDE, OCTINOXATE, and ZINC OXIDE", "PRICE" : "$126.26" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "793" } }
+{ "id" : "793", "ITMREF" : "118222099", "DESC" : "Hydrocortisone", "PRICE" : "$573.25" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "794" } }
+{ "id" : "794", "ITMREF" : "61787451", "DESC" : "Capsaicin and Menthol", "PRICE" : "$106.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "795" } }
+{ "id" : "795", "ITMREF" : "438570083", "DESC" : "Althaea Officinalis, Lobelia Inflata, Rheum, Verbascum Thapsus, Belladonna, Cuprum Aceticum, Drosera, Ipecacuanha", "PRICE" : "$319.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "796" } }
+{ "id" : "796", "ITMREF" : "55700001", "DESC" : "Buspirone hydrochloride", "PRICE" : "$449.23" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "797" } }
+{ "id" : "797", "ITMREF" : "636294075", "DESC" : "Bisoprolol Fumarate and Hydrochlorothiazide", "PRICE" : "$352.63" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "798" } }
+{ "id" : "798", "ITMREF" : "55312076", "DESC" : "Neomycin Sulfate, Polymyxin B Sulfate, and Pramoxine Hydrochloride", "PRICE" : "$823.86" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "799" } }
+{ "id" : "799", "ITMREF" : "02681105", "DESC" : "Cedar Red", "PRICE" : "$484.05" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "800" } }
+{ "id" : "800", "ITMREF" : "68387559", "DESC" : "TOPIRAMATE", "PRICE" : "$938.00" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "801" } }
+{ "id" : "801", "ITMREF" : "489515068", "DESC" : "Ignatia Bryophyllum", "PRICE" : "$947.14" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "802" } }
+{ "id" : "802", "ITMREF" : "49781078", "DESC" : "Ketotifen Fumarate", "PRICE" : "$1053.21" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "803" } }
+{ "id" : "803", "ITMREF" : "488784031", "DESC" : "stannous fluoride", "PRICE" : "$1000.77" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "804" } }
+{ "id" : "804", "ITMREF" : "06033899", "DESC" : "hydrocortisone", "PRICE" : "$80.74" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "805" } }
+{ "id" : "805", "ITMREF" : "68180210", "DESC" : "Losartan Potassium", "PRICE" : "$694.46" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "806" } }
+{ "id" : "806", "ITMREF" : "626704780", "DESC" : "Alcohol", "PRICE" : "$671.52" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "807" } }
+{ "id" : "807", "ITMREF" : "49967982", "DESC" : "Avobenzone, Homosalate, Octisalate and Octocrylene", "PRICE" : "$903.09" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "808" } }
+{ "id" : "808", "ITMREF" : "516724146", "DESC" : "Phenytoin", "PRICE" : "$284.45" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "809" } }
+{ "id" : "809", "ITMREF" : "68084777", "DESC" : "Acetaminophen", "PRICE" : "$911.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "810" } }
+{ "id" : "810", "ITMREF" : "13537408", "DESC" : "Zinc Oxide and Titanium Dioxide", "PRICE" : "$32.58" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "811" } }
+{ "id" : "811", "ITMREF" : "595355301", "DESC" : "Zinc oxide", "PRICE" : "$535.91" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "812" } }
+{ "id" : "812", "ITMREF" : "01780345", "DESC" : "Zinc Oxide", "PRICE" : "$616.79" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "813" } }
+{ "id" : "813", "ITMREF" : "369871790", "DESC" : "House Fly", "PRICE" : "$600.95" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "814" } }
+{ "id" : "814", "ITMREF" : "605052520", "DESC" : "citalopram hydrobromide", "PRICE" : "$949.63" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "815" } }
+{ "id" : "815", "ITMREF" : "03780734", "DESC" : "fluoxetine", "PRICE" : "$765.48" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "816" } }
+{ "id" : "816", "ITMREF" : "29336750", "DESC" : "imiquimod", "PRICE" : "$698.97" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "817" } }
+{ "id" : "817", "ITMREF" : "51367010", "DESC" : "Menthol, Camphor, Methyl Salicylate", "PRICE" : "$239.77" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "818" } }
+{ "id" : "818", "ITMREF" : "03787003", "DESC" : "paroxetine hydrochloride hemihydrate", "PRICE" : "$1016.13" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "819" } }
+{ "id" : "819", "ITMREF" : "557144429", "DESC" : "Arg. met., Arsenicum alb, Aur. met., Bovista, Bryonia, Chelidonium majus, Chionanthus virginica, Gaultheria procumbens, Helonias dioica, Iris versicolor, Lycopodium, Nux vom, Phosphorus, Rhus toxicodendron, Sabal, Syzygium, Cynara, Echinacea, Thuja occ., Urtica ur", "PRICE" : "$763.70" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "820" } }
+{ "id" : "820", "ITMREF" : "49035888", "DESC" : "Menthol", "PRICE" : "$289.73" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "821" } }
+{ "id" : "821", "ITMREF" : "30142602", "DESC" : "Magnesium Sulfate", "PRICE" : "$854.58" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "822" } }
+{ "id" : "822", "ITMREF" : "492880567", "DESC" : "Tea", "PRICE" : "$436.60" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "823" } }
+{ "id" : "823", "ITMREF" : "58194006", "DESC" : "Ethyl Alcohol", "PRICE" : "$563.49" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "824" } }
+{ "id" : "824", "ITMREF" : "09046216", "DESC" : "Sulindac", "PRICE" : "$626.48" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "825" } }
+{ "id" : "825", "ITMREF" : "10738304", "DESC" : "ALLANTOIN AND DIMETHICONE", "PRICE" : "$58.94" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "826" } }
+{ "id" : "826", "ITMREF" : "369871979", "DESC" : "Fusarium compactum", "PRICE" : "$751.73" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "827" } }
+{ "id" : "827", "ITMREF" : "52125704", "DESC" : "Levofloxacin", "PRICE" : "$185.26" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "828" } }
+{ "id" : "828", "ITMREF" : "21695919", "DESC" : "valsartan", "PRICE" : "$213.75" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "829" } }
+{ "id" : "829", "ITMREF" : "653421007", "DESC" : "AVOBENZONE, OCTISALATE, OCTOCRYLENE", "PRICE" : "$992.66" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "830" } }
+{ "id" : "830", "ITMREF" : "679381076", "DESC" : "Octinoxate", "PRICE" : "$78.46" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "831" } }
+{ "id" : "831", "ITMREF" : "00153012", "DESC" : "carmustine", "PRICE" : "$295.27" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "832" } }
+{ "id" : "832", "ITMREF" : "57353101", "DESC" : "SODIUM FLUORIDE POTASSIUM NITRATE", "PRICE" : "$950.85" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "833" } }
+{ "id" : "833", "ITMREF" : "37000699", "DESC" : "Acetaminophen, Chlorpheniramine maleate, and Dextromethorphan Hydrobromide", "PRICE" : "$361.55" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "834" } }
+{ "id" : "834", "ITMREF" : "42507373", "DESC" : "Acetaminophen, Dextromethorphan HBr, Doxylamine Succinate", "PRICE" : "$877.35" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "835" } }
+{ "id" : "835", "ITMREF" : "68084190", "DESC" : "ZONISAMIDE", "PRICE" : "$124.04" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "836" } }
+{ "id" : "836", "ITMREF" : "107428597", "DESC" : "dimethicone, octinoxate, octisalate, oxybenzone", "PRICE" : "$585.44" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "837" } }
+{ "id" : "837", "ITMREF" : "65841753", "DESC" : "venlafaxine hydrochloride", "PRICE" : "$555.95" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "838" } }
+{ "id" : "838", "ITMREF" : "57237031", "DESC" : "Amoxicillin", "PRICE" : "$263.75" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "839" } }
+{ "id" : "839", "ITMREF" : "10702052", "DESC" : "hydroxyzine hydrochloride", "PRICE" : "$1038.68" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "840" } }
+{ "id" : "840", "ITMREF" : "11673426", "DESC" : "Tioconazole", "PRICE" : "$75.03" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "841" } }
+{ "id" : "841", "ITMREF" : "35356604", "DESC" : "simvastatin", "PRICE" : "$664.62" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "842" } }
+{ "id" : "842", "ITMREF" : "01130462", "DESC" : "diphenhydramine hydrochloride", "PRICE" : "$1002.93" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "843" } }
+{ "id" : "843", "ITMREF" : "54575420", "DESC" : "green olive", "PRICE" : "$471.34" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "844" } }
+{ "id" : "844", "ITMREF" : "42265101", "DESC" : "Benzoyl Peroxide", "PRICE" : "$479.77" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "845" } }
+{ "id" : "845", "ITMREF" : "548685656", "DESC" : "loratadine and pseudoephedrine", "PRICE" : "$198.14" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "846" } }
+{ "id" : "846", "ITMREF" : "68016125", "DESC" : "concetrated ibuprofen", "PRICE" : "$421.66" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "847" } }
+{ "id" : "847", "ITMREF" : "01790100", "DESC" : "Ondansetron Hydrochloride", "PRICE" : "$1031.13" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "848" } }
+{ "id" : "848", "ITMREF" : "47682397", "DESC" : "Hydrocortisone", "PRICE" : "$974.78" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "849" } }
+{ "id" : "849", "ITMREF" : "01130679", "DESC" : "Bacitracin, Neomycin, Polymyxin B, Pramoxine HCl", "PRICE" : "$393.53" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "850" } }
+{ "id" : "850", "ITMREF" : "63323482", "DESC" : "LIDOCAINE HYDROCHLORIDE,EPINEPHRINE BITARTRATE", "PRICE" : "$713.28" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "851" } }
+{ "id" : "851", "ITMREF" : "07815312", "DESC" : "Risperidone", "PRICE" : "$767.51" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "852" } }
+{ "id" : "852", "ITMREF" : "42507318", "DESC" : "Eucalyptol, Menthol, Methyl salicylate, Thymol", "PRICE" : "$797.24" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "853" } }
+{ "id" : "853", "ITMREF" : "51285368", "DESC" : "methotrexate", "PRICE" : "$456.07" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "854" } }
+{ "id" : "854", "ITMREF" : "548684748", "DESC" : "prednisolone", "PRICE" : "$1004.86" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "855" } }
+{ "id" : "855", "ITMREF" : "63940664", "DESC" : "Eucalyptol, menthol, methyl salicylate, thymol", "PRICE" : "$533.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "856" } }
+{ "id" : "856", "ITMREF" : "42254040", "DESC" : "Metaxalone", "PRICE" : "$508.77" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "857" } }
+{ "id" : "857", "ITMREF" : "586680191", "DESC" : "ALUMINUM CHLOROHYDRATE", "PRICE" : "$24.30" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "858" } }
+{ "id" : "858", "ITMREF" : "605050084", "DESC" : "paroxetine hydrochloride", "PRICE" : "$369.94" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "859" } }
+{ "id" : "859", "ITMREF" : "606811822", "DESC" : "mucor racemosus", "PRICE" : "$862.15" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "860" } }
+{ "id" : "860", "ITMREF" : "605050181", "DESC" : "Sertraline Hydrochloride", "PRICE" : "$621.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "861" } }
+{ "id" : "861", "ITMREF" : "28105160", "DESC" : "fluocinolone acetonide", "PRICE" : "$921.52" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "862" } }
+{ "id" : "862", "ITMREF" : "115230544", "DESC" : "Miconazole nitrate", "PRICE" : "$139.40" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "863" } }
+{ "id" : "863", "ITMREF" : "68016063", "DESC" : "Hydrocortisone", "PRICE" : "$699.16" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "864" } }
+{ "id" : "864", "ITMREF" : "650445056", "DESC" : "Cephalosporium acremonium", "PRICE" : "$595.24" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "865" } }
+{ "id" : "865", "ITMREF" : "369873325", "DESC" : "English Plantain", "PRICE" : "$389.21" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "866" } }
+{ "id" : "866", "ITMREF" : "62584988", "DESC" : "Allopurinol", "PRICE" : "$661.03" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "867" } }
+{ "id" : "867", "ITMREF" : "16837298", "DESC" : "Famotidine, Calcium carbonate, and Magnesium hydroxide", "PRICE" : "$300.03" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "868" } }
+{ "id" : "868", "ITMREF" : "09046128", "DESC" : "Terazosin Hydrochloride", "PRICE" : "$137.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "869" } }
+{ "id" : "869", "ITMREF" : "369871458", "DESC" : "Iceberg Lettuce", "PRICE" : "$896.21" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "870" } }
+{ "id" : "870", "ITMREF" : "597620935", "DESC" : "Voriconazole", "PRICE" : "$31.71" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "871" } }
+{ "id" : "871", "ITMREF" : "68998343", "DESC" : "Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate", "PRICE" : "$975.34" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "872" } }
+{ "id" : "872", "ITMREF" : "636295364", "DESC" : "Alprazolam", "PRICE" : "$339.66" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "873" } }
+{ "id" : "873", "ITMREF" : "369872601", "DESC" : "Fremont Cottonwood", "PRICE" : "$98.82" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "874" } }
+{ "id" : "874", "ITMREF" : "49348774", "DESC" : "Guaifenesin/phenylephrine", "PRICE" : "$657.40" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "875" } }
+{ "id" : "875", "ITMREF" : "582320036", "DESC" : "Pramoxine Hydrochloride", "PRICE" : "$933.23" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "876" } }
+{ "id" : "876", "ITMREF" : "44119001", "DESC" : "BENZALKONIUM CHLORIDE", "PRICE" : "$183.93" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "877" } }
+{ "id" : "877", "ITMREF" : "63981111", "DESC" : "Minoxidil", "PRICE" : "$391.48" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "878" } }
+{ "id" : "878", "ITMREF" : "176302017", "DESC" : "Avobenzone and Octocrylene and Oxybenzone", "PRICE" : "$312.37" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "879" } }
+{ "id" : "879", "ITMREF" : "501148006", "DESC" : "PAEONIA OFFICINALIS ROOT", "PRICE" : "$383.43" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "880" } }
+{ "id" : "880", "ITMREF" : "60429301", "DESC" : "clopidogrel bisulfate", "PRICE" : "$573.93" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "881" } }
+{ "id" : "881", "ITMREF" : "59779144", "DESC" : "ACETAMINOPHEN, CHLORPHENIRAMINE MALEATE, DEXTROMETHORPHAN HYDROBROMIDE, PHENYLEPHRINE HYDROCHLORIDE", "PRICE" : "$348.76" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "882" } }
+{ "id" : "882", "ITMREF" : "14783085", "DESC" : "Octinoxate", "PRICE" : "$956.84" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "883" } }
+{ "id" : "883", "ITMREF" : "516721272", "DESC" : "Nystatin and Triamcinolone Acetonide", "PRICE" : "$286.10" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "884" } }
+{ "id" : "884", "ITMREF" : "59427701", "DESC" : "ZINC OXIDE, TITANIUM DIOXIDE", "PRICE" : "$179.11" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "885" } }
+{ "id" : "885", "ITMREF" : "682588904", "DESC" : "Guaifenesin and Codeine Phosphate", "PRICE" : "$662.78" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "886" } }
+{ "id" : "886", "ITMREF" : "01730699", "DESC" : "lamotrigine", "PRICE" : "$841.21" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "887" } }
+{ "id" : "887", "ITMREF" : "605050168", "DESC" : "PRAVASTATIN SODIUM", "PRICE" : "$922.72" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "888" } }
+{ "id" : "888", "ITMREF" : "02686517", "DESC" : "Chaetomium globosum", "PRICE" : "$637.82" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "889" } }
+{ "id" : "889", "ITMREF" : "02647682", "DESC" : "DEXTROSE, SODIUM CHLORIDE, and POTASSIUM CHLORIDE", "PRICE" : "$890.96" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "890" } }
+{ "id" : "890", "ITMREF" : "581183339", "DESC" : "Diphenhydramine Hydrochloride", "PRICE" : "$44.81" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "891" } }
+{ "id" : "891", "ITMREF" : "53208449", "DESC" : "Sodium Monofluorophosphate, Calcium Glycerophosphate", "PRICE" : "$396.96" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "892" } }
+{ "id" : "892", "ITMREF" : "61703309", "DESC" : "VINCRISTINE SULFATE", "PRICE" : "$127.17" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "893" } }
+{ "id" : "893", "ITMREF" : "59779819", "DESC" : "Fluoride", "PRICE" : "$944.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "894" } }
+{ "id" : "894", "ITMREF" : "52125234", "DESC" : "Ibuprofen", "PRICE" : "$1020.86" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "895" } }
+{ "id" : "895", "ITMREF" : "07032201", "DESC" : "Promethazine Hydrochloride", "PRICE" : "$953.90" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "896" } }
+{ "id" : "896", "ITMREF" : "01680522", "DESC" : "ciclopirox", "PRICE" : "$868.79" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "897" } }
+{ "id" : "897", "ITMREF" : "51138107", "DESC" : "Metoprolol Tartrate", "PRICE" : "$149.82" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "898" } }
+{ "id" : "898", "ITMREF" : "16590860", "DESC" : "BECLOMETHASONE DIPROPIONATE", "PRICE" : "$685.88" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "899" } }
+{ "id" : "899", "ITMREF" : "369872639", "DESC" : "Cedar Elm", "PRICE" : "$437.07" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "900" } }
+{ "id" : "900", "ITMREF" : "545695684", "DESC" : "ESZOPICLONE", "PRICE" : "$913.15" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "901" } }
+{ "id" : "901", "ITMREF" : "54057305", "DESC" : "Tricolsan", "PRICE" : "$577.86" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "902" } }
+{ "id" : "902", "ITMREF" : "49349914", "DESC" : "Sertraline Hydrochloride", "PRICE" : "$723.63" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "903" } }
+{ "id" : "903", "ITMREF" : "63146111", "DESC" : "Antiseptic handwash", "PRICE" : "$157.85" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "904" } }
+{ "id" : "904", "ITMREF" : "41520241", "DESC" : "BENZETHONIUM CHLORIDE", "PRICE" : "$612.58" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "905" } }
+{ "id" : "905", "ITMREF" : "118220175", "DESC" : "Acetaminophen", "PRICE" : "$515.88" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "906" } }
+{ "id" : "906", "ITMREF" : "597620045", "DESC" : "Montelukast Sodium", "PRICE" : "$537.66" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "907" } }
+{ "id" : "907", "ITMREF" : "36800703", "DESC" : "Acetaminophen, Dextromethorphan HBr, Doxylamine Succinate", "PRICE" : "$927.82" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "908" } }
+{ "id" : "908", "ITMREF" : "36800099", "DESC" : "Hydrocortisone", "PRICE" : "$591.72" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "909" } }
+{ "id" : "909", "ITMREF" : "21130571", "DESC" : "fexofenadine hydrochloride", "PRICE" : "$819.63" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "910" } }
+{ "id" : "910", "ITMREF" : "47593178", "DESC" : "triclosan", "PRICE" : "$560.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "911" } }
+{ "id" : "911", "ITMREF" : "496932001", "DESC" : "Bacillus cereus", "PRICE" : "$662.64" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "912" } }
+{ "id" : "912", "ITMREF" : "61734411", "DESC" : "Petrolatum", "PRICE" : "$762.04" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "913" } }
+{ "id" : "913", "ITMREF" : "599100001", "DESC" : "OXYGEN", "PRICE" : "$731.25" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "914" } }
+{ "id" : "914", "ITMREF" : "68382072", "DESC" : "pravastatin sodium", "PRICE" : "$426.95" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "915" } }
+{ "id" : "915", "ITMREF" : "01214802", "DESC" : "LEVETIRACETAM", "PRICE" : "$65.94" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "916" } }
+{ "id" : "916", "ITMREF" : "03632008", "DESC" : "Sodium Monofluorophosphate", "PRICE" : "$1010.35" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "917" } }
+{ "id" : "917", "ITMREF" : "45264002", "DESC" : "Clotrimazole", "PRICE" : "$637.50" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "918" } }
+{ "id" : "918", "ITMREF" : "42254178", "DESC" : "diphenhydramine hydrochloride", "PRICE" : "$858.82" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "919" } }
+{ "id" : "919", "ITMREF" : "64117290", "DESC" : "CAPSELLA BURSAPASTORIS", "PRICE" : "$1014.43" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "920" } }
+{ "id" : "920", "ITMREF" : "62175442", "DESC" : "POLYETHYLENE GLYCOL 3350", "PRICE" : "$812.69" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "921" } }
+{ "id" : "921", "ITMREF" : "68479116", "DESC" : "Sulfur", "PRICE" : "$156.90" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "922" } }
+{ "id" : "922", "ITMREF" : "02686401", "DESC" : "Fire Ant", "PRICE" : "$988.58" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "923" } }
+{ "id" : "923", "ITMREF" : "411670100", "DESC" : "Hydrocortisone", "PRICE" : "$418.60" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "924" } }
+{ "id" : "924", "ITMREF" : "62175106", "DESC" : "isosorbide mononitrate", "PRICE" : "$94.98" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "925" } }
+{ "id" : "925", "ITMREF" : "03380051", "DESC" : "Sodium Chloride", "PRICE" : "$963.77" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "926" } }
+{ "id" : "926", "ITMREF" : "00938122", "DESC" : "Doxazosin Mesylate", "PRICE" : "$165.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "927" } }
+{ "id" : "927", "ITMREF" : "04062540", "DESC" : "METHADONE HYDROCHLORIDE", "PRICE" : "$223.45" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "928" } }
+{ "id" : "928", "ITMREF" : "13537427", "DESC" : "ALUMINUM CHLOROHYDRATE", "PRICE" : "$833.24" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "929" } }
+{ "id" : "929", "ITMREF" : "00490530", "DESC" : "penicillin G potassium", "PRICE" : "$704.49" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "930" } }
+{ "id" : "930", "ITMREF" : "597625033", "DESC" : "glipizide", "PRICE" : "$716.27" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "931" } }
+{ "id" : "931", "ITMREF" : "11673679", "DESC" : "Bacitracin, Neomycin, Polymyxin B, Pramoxine HCl", "PRICE" : "$902.71" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "932" } }
+{ "id" : "932", "ITMREF" : "489514107", "DESC" : "Formica 60 Special Order", "PRICE" : "$609.67" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "933" } }
+{ "id" : "933", "ITMREF" : "51655584", "DESC" : "Metoprolol Tartrate", "PRICE" : "$380.10" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "934" } }
+{ "id" : "934", "ITMREF" : "682581104", "DESC" : "Atovaquone and Proguanil Hydrochloride", "PRICE" : "$888.23" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "935" } }
+{ "id" : "935", "ITMREF" : "55319235", "DESC" : "Acetaminophen and Diphenhydramine HCl", "PRICE" : "$860.23" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "936" } }
+{ "id" : "936", "ITMREF" : "50268629", "DESC" : "Oxybutynin Chloride", "PRICE" : "$1046.30" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "937" } }
+{ "id" : "937", "ITMREF" : "52982106", "DESC" : "benzethonium chloride and lidocaine", "PRICE" : "$1000.14" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "938" } }
+{ "id" : "938", "ITMREF" : "33261956", "DESC" : "Econazole Nitrate", "PRICE" : "$263.45" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "939" } }
+{ "id" : "939", "ITMREF" : "53329080", "DESC" : "Miconazole Nitrate", "PRICE" : "$814.58" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "940" } }
+{ "id" : "940", "ITMREF" : "545696325", "DESC" : "buprenorphine", "PRICE" : "$757.25" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "941" } }
+{ "id" : "941", "ITMREF" : "51389107", "DESC" : "TITANIUM DIOXIDE", "PRICE" : "$81.70" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "942" } }
+{ "id" : "942", "ITMREF" : "54575158", "DESC" : "artemisia frigida pollen", "PRICE" : "$17.97" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "943" } }
+{ "id" : "943", "ITMREF" : "49349138", "DESC" : "Cozaar", "PRICE" : "$748.09" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "944" } }
+{ "id" : "944", "ITMREF" : "01132310", "DESC" : "Guaifenesin", "PRICE" : "$587.27" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "945" } }
+{ "id" : "945", "ITMREF" : "37000079", "DESC" : "Pyrithione Zinc", "PRICE" : "$329.23" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "946" } }
+{ "id" : "946", "ITMREF" : "01850720", "DESC" : "Indomethacin", "PRICE" : "$1023.93" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "947" } }
+{ "id" : "947", "ITMREF" : "68001182", "DESC" : "quetiapine fumarate", "PRICE" : "$70.25" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "948" } }
+{ "id" : "948", "ITMREF" : "53942664", "DESC" : "Eucalyptol, menthol, methyl salicylate, thymol", "PRICE" : "$140.97" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "949" } }
+{ "id" : "949", "ITMREF" : "33342015", "DESC" : "Amlodipine", "PRICE" : "$873.49" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "950" } }
+{ "id" : "950", "ITMREF" : "575200387", "DESC" : "Human chorionic gonadotropin (hCG),", "PRICE" : "$867.08" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "951" } }
+{ "id" : "951", "ITMREF" : "60429079", "DESC" : "Paricalcitol", "PRICE" : "$571.32" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "952" } }
+{ "id" : "952", "ITMREF" : "497019001", "DESC" : "Octinoxate, Oxybenzone, Octisalate", "PRICE" : "$203.63" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "953" } }
+{ "id" : "953", "ITMREF" : "68084509", "DESC" : "Digoxin", "PRICE" : "$725.86" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "954" } }
+{ "id" : "954", "ITMREF" : "114291007", "DESC" : "CHLOROXYLENOL", "PRICE" : "$14.14" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "955" } }
+{ "id" : "955", "ITMREF" : "42002211", "DESC" : "Glycerin, Hypromelloses, Polyethylene Glycol 400, and Tetrahydrozoline Hydrochloride", "PRICE" : "$27.72" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "956" } }
+{ "id" : "956", "ITMREF" : "55910906", "DESC" : "phenylephrine hcl, brompheniramine maleate", "PRICE" : "$699.16" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "957" } }
+{ "id" : "957", "ITMREF" : "13668088", "DESC" : "OLANZAPINE", "PRICE" : "$361.77" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "958" } }
+{ "id" : "958", "ITMREF" : "24488001", "DESC" : "Camphor Menthol Methyl Salicylate", "PRICE" : "$702.43" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "959" } }
+{ "id" : "959", "ITMREF" : "66007204", "DESC" : "Guaifenesin and Dextromethorphan", "PRICE" : "$913.06" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "960" } }
+{ "id" : "960", "ITMREF" : "124961208", "DESC" : "buprenorphine hydrochloride, naloxone hydrochloride", "PRICE" : "$961.84" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "961" } }
+{ "id" : "961", "ITMREF" : "63187107", "DESC" : "Menthol", "PRICE" : "$568.95" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "962" } }
+{ "id" : "962", "ITMREF" : "64679715", "DESC" : "zolpidem tartrate", "PRICE" : "$620.04" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "963" } }
+{ "id" : "963", "ITMREF" : "10812819", "DESC" : "Salicylic Acid", "PRICE" : "$220.95" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "964" } }
+{ "id" : "964", "ITMREF" : "03781053", "DESC" : "Enalapril Maleate", "PRICE" : "$568.81" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "965" } }
+{ "id" : "965", "ITMREF" : "03630217", "DESC" : "Acetaminophen", "PRICE" : "$106.96" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "966" } }
+{ "id" : "966", "ITMREF" : "76433002", "DESC" : "Camphor", "PRICE" : "$277.02" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "967" } }
+{ "id" : "967", "ITMREF" : "636294487", "DESC" : "Hydrocodone Bitartrate And Acetaminophen", "PRICE" : "$765.44" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "968" } }
+{ "id" : "968", "ITMREF" : "01132432", "DESC" : "Pseudoephedrine HCl", "PRICE" : "$289.49" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "969" } }
+{ "id" : "969", "ITMREF" : "00780563", "DESC" : "amlodipine valsartan and hydrochlorothiazide", "PRICE" : "$114.07" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "970" } }
+{ "id" : "970", "ITMREF" : "03381452", "DESC" : "Sodium Chloride", "PRICE" : "$240.71" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "971" } }
+{ "id" : "971", "ITMREF" : "18657901", "DESC" : "Hyaluronidase (Human Recombinant)", "PRICE" : "$589.58" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "972" } }
+{ "id" : "972", "ITMREF" : "64117199", "DESC" : "LACTOSE, XRAY EXPOSED (1000 RAD)", "PRICE" : "$148.85" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "973" } }
+{ "id" : "973", "ITMREF" : "21695556", "DESC" : "Ketoconazole", "PRICE" : "$285.76" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "974" } }
+{ "id" : "974", "ITMREF" : "34666004", "DESC" : "Nux Vomica", "PRICE" : "$100.41" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "975" } }
+{ "id" : "975", "ITMREF" : "44009802", "DESC" : "cefditoren pivoxil", "PRICE" : "$405.83" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "976" } }
+{ "id" : "976", "ITMREF" : "597620930", "DESC" : "Voriconazole", "PRICE" : "$1002.35" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "977" } }
+{ "id" : "977", "ITMREF" : "49726003", "DESC" : "Ammonium Carbonicum, Antimonim Arsenicosum, Antimonium Tartaricum, Arsenicum Album, Bromium, Carbo Vegetabilis, Chlorinum, Kali Carbonicum, Lobelia Inflata, Stannum Metallicum, Sulphuricum Acidum", "PRICE" : "$792.78" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "978" } }
+{ "id" : "978", "ITMREF" : "581189969", "DESC" : "Ciprofloxacin", "PRICE" : "$625.93" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "979" } }
+{ "id" : "979", "ITMREF" : "59779228", "DESC" : "Acetaminophen, Diphenhydramine HCl", "PRICE" : "$282.58" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "980" } }
+{ "id" : "980", "ITMREF" : "06030283", "DESC" : "senna and docusate sodium", "PRICE" : "$418.89" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "981" } }
+{ "id" : "981", "ITMREF" : "36800050", "DESC" : "diphenhydramine citrate and ibuprofen", "PRICE" : "$254.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "982" } }
+{ "id" : "982", "ITMREF" : "687889752", "DESC" : "cephalexin", "PRICE" : "$1015.59" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "983" } }
+{ "id" : "983", "ITMREF" : "439650001", "DESC" : "Eriodictyon Californicum, Hamamelis Virginiana, Nymphaea Odorata, Plantago Major, Xanthoxylum Fraxineum, Xerophyllum Asphodeloides", "PRICE" : "$992.02" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "984" } }
+{ "id" : "984", "ITMREF" : "519181005", "DESC" : "ASIAN GINSENG", "PRICE" : "$757.84" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "985" } }
+{ "id" : "985", "ITMREF" : "60913009", "DESC" : "Isopropyl Alcohol", "PRICE" : "$424.08" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "986" } }
+{ "id" : "986", "ITMREF" : "00950054", "DESC" : "hydrocodone polistirex and chlorpheniramine polistirex", "PRICE" : "$666.67" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "987" } }
+{ "id" : "987", "ITMREF" : "581181342", "DESC" : "Levothyroxine Sodium", "PRICE" : "$149.64" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "988" } }
+{ "id" : "988", "ITMREF" : "41520049", "DESC" : "Camphor, Menthol, Methyl Salicylate", "PRICE" : "$415.59" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "989" } }
+{ "id" : "989", "ITMREF" : "369873291", "DESC" : "Darkleaves Mugwort", "PRICE" : "$984.41" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "990" } }
+{ "id" : "990", "ITMREF" : "36800630", "DESC" : "Dimenhydrinate", "PRICE" : "$163.61" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "991" } }
+{ "id" : "991", "ITMREF" : "369872358", "DESC" : "Quack Grass", "PRICE" : "$392.14" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "992" } }
+{ "id" : "992", "ITMREF" : "60429215", "DESC" : "Hydrochlorothiazide", "PRICE" : "$117.21" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "993" } }
+{ "id" : "993", "ITMREF" : "579557020", "DESC" : "Aloe socotrina, Chamomilla, Cinchona officinalis, Colocynthis, Croton tiglium, Cuprum arsenicosum, Gelsemium sempervirens, Ipecacuanha, Nux vomica, Phosphoricum acidum, Podophyllum peltatum, veratrum album", "PRICE" : "$553.14" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "994" } }
+{ "id" : "994", "ITMREF" : "650440842", "DESC" : "Standardized Grass Pollen, Grass Mix 4", "PRICE" : "$348.45" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "995" } }
+{ "id" : "995", "ITMREF" : "37012165", "DESC" : "Loratadine, Pseudoephedrine Sulfate", "PRICE" : "$643.72" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "996" } }
+{ "id" : "996", "ITMREF" : "64117109", "DESC" : "ARISAEMA TRIPHYLLUM ROOT", "PRICE" : "$663.29" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "997" } }
+{ "id" : "997", "ITMREF" : "551542080", "DESC" : "Ibuprofen", "PRICE" : "$635.46" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "998" } }
+{ "id" : "998", "ITMREF" : "43526104", "DESC" : "Titanium dioxide, Octinoxate, Octisalate, Zinc Oxide", "PRICE" : "$124.50" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "999" } }
+{ "id" : "999", "ITMREF" : "489518103", "DESC" : "Pyrite Salvia", "PRICE" : "$1010.59" }
+{ "create" : { "_index" : "product" , "_type" : "drug", "_id" : "1000" } }
+{ "id" : "1000", "ITMREF" : "53329018", "DESC" : "Triclosan", "PRICE" : "$855.31" }

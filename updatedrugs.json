@@ -1,0 +1,22 @@
+{"update": {"_id": "21"}}
+{"doc": {"indicators": ["16", "17", "19", "23", "14", "1", "22", "15", "3", "8", "18", "20"], "numFields": 12}}
+{"update": {"_id": "16"}}
+{"doc": {"indicators": ["17", "19", "23", "14", "1", "22", "15", "3", "8", "18", "20"], "numFields": 11}}
+{"update": {"_id": "17"}}
+{"doc": {"indicators": ["19", "23", "14", "1", "22", "15", "3", "8", "18", "20"], "numFields": 10}}
+{"update": {"_id": "19"}}
+{"doc": {"indicators": ["23", "14", "1", "22", "15", "3", "8", "18", "20"], "numFields": 9}}
+{"update": {"_id": "23"}}
+{"doc": {"indicators": ["14", "1", "22", "15", "3", "8", "18", "20"], "numFields": 8}}
+{"update": {"_id": "14"}}
+{"doc": {"indicators": ["1", "22", "15", "3", "8", "18", "20"], "numFields": 7}}
+{"update": {"_id": "1"}}
+{"doc": {"indicators": ["22", "15", "3", "8", "18", "20"], "numFields": 6}}
+{"update": {"_id": "22"}}
+{"doc": {"indicators": ["15", "3", "8", "18", "20"], "numFields": 5}}
+{"update": {"_id": "15"}}
+{"doc": {"indicators": ["3", "8", "18", "20"], "numFields": 4}}
+{"update": {"_id": "3"}}
+{"doc": {"indicators": ["8", "18", "20"], "numFields": 3}}
+{"update": {"_id": "8"}}
+{"doc": {"indicators": ["18", "20"], "numFields": 2}}
